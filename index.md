@@ -1,6 +1,6 @@
  
  
- **VISPEAHEN VERİ ANALİZİ VE GÖRSELLEŞTİRME PLATFORMU V3**
+ **git **
 **1. Vispeahen Kullanıcı Oluşturma**
 Vispeahen'e kullanıcı adı ve şifre bilgisi ile giriş yapılabilmektedir. Vispeahen’e giriş yapacak kullanıcı aşağıdaki adımları izlemelidir.
 * Web tarayıcıya Vispeahen’e giriş yapılacak url eklenir.
