@@ -1,9 +1,9 @@
 
 VISPEAHEN VERİ ANALİZ VE GÖRSELLEŞTİRME PLATFORMU V3
-===========
+====================================================
 
 **1. Vispeahen Kullanıcı Oluşturma**
-====
+====================================
 
 Vispeahen’e kullanıcı adı
 ve şifre bilgisi ile giriş yapılabilmektedir. Vispeahen’e giriş yapacak
@@ -29,7 +29,7 @@ kullanıcı aşağıdaki adımları izlemelidir.
 
 
 **2. Giriş Yapma**
-====
+==================
 
 -  Vispeahen’e giriş yapmak için tarayıcıya belirlenen url eklenir.
 
@@ -50,7 +50,7 @@ Resim 1. Vispeahen Giriş Ekranı
 
 
 **3. Açılış Ekranı**
-=====
+====================
 
 -  Kullanıcı adı ve şifre bilgisi ile giriş yaptıktan sonra açılış
    ekranı gelmektedir. Kullanıcı ile ilk defa girişte ya da herhangi bir
@@ -104,7 +104,7 @@ Arama yapılan rapor ön izlemeleri de yer almaktadır.
 
 
 **4. Rapor Oluşturma Ekranı**
-======
+=============================
 
 Rapor açılış ekranının solunda bulunan “+” ikonuna tıklandığında yeni
 rapor oluşturma ekranına geçiş yapılmaktadır. (“+” ikonu yetki dâhilinde
@@ -312,7 +312,7 @@ uyarı çıkmaktadır.
 ortak olduğundan ayrı başlıkta yer alacaktır.
 
 **Scatter Grafiği Veri Alanı**
-==========
+==============================
 
 .. figure:: ./images/25.png
    :alt: image
@@ -442,7 +442,7 @@ Chord Diagram Ayarlar Alanı
 2.3. **Başlık Yazı Stilleri:** Grafik başlığının kalın/italik/altı çizili olmasının belirlendiği kısımdır.
 
 4.3.1.3. Sankey grafiği
-=====
+=======================
 
 .. figure:: ./images/30.png
    :alt: image
@@ -510,7 +510,7 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
 
 4.3.1.4. Silindir Bar Grafiği
-====
+==============================
 .. figure:: ./images/33.png
    :alt: image
 
@@ -528,4 +528,67 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
 .. figure:: ./images/34.png
    :alt: image
+
+**1.Tablolar & Kolonlar**
+Seçili modelde var olan tablo ve kolonların bulunduğu alandır.
+Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölümlere sürükle-bırak ile eklenir.
+   1.1. **Ara:** Tablo ve kolonların arandığı alandır.
+   
+   
+   1.2. **Tablo Kolon Listesi:** Seçili modelde yer alan tablo ve kolonların yer aldığı bölümdür.
+
+**2.Kolon Eşleştirmeleri**
+  
+  2.1. **Sıralama:** Kolon verisinin artan/azalan şekilde sıralamasının yapıldığı alandır.
+  
+  2.2. **Etiket:** Grafiğin kategorik alana göre değişiminin görselleştirilmesi için verinin eklendiği alandır.
+  
+  2.3. **Değerler:** Grafiği şekillendirmek için kullanılacak sayısal veri/verilerin eklendiği alandır.
+ 
+**Silindir Bar Grafiği Ayarlar Alanı**
+
+.. figure:: ./images/35.png
+   :alt: image
+
+**1. Diğer**
+
+1. **Başlık:** Grafiğe başlık verilen alandır.
+
+2. **Başlık Hizası:** Grafik başlığının sağ/orta/sol hizalamasının seçildiği alandır.
+
+3. **Başlık Yazı Stilleri:** Grafik başlığının kalın/italik/altı çizili olmasının belirlendiği kısımdır.
+
+4. **Arka Plan Rengi:** Grafiğe arka plan rengi verilen alandır. Paletten arka plan rengi seçilebilmektedir.
+
+          4. 3. 1. 5. Yaş Piramidi
+
+.. figure:: ./images/36.png
+   :alt: image
+
+**1. Araçları Aç/Kapat:** Görsel ile ilgili düzenleme yapılan ikonların açıp kapatıldığı ikondur.
+
+**2. Veri:** Kullanıcının kendi verileriyle görseli şekillendireceği alandır.
+
+**3.Ayarlar:** Görselin renk/başlık gibi biçimsel özelliklerinin değiştirildiği alandır.
+
+**4.Navigasyon:** Görselden belirlenen parametreye göre navigasyon verilen alandır.
+
+**5.Yenile:** Veri alanı ile grafiğin çalışması ve grafiğin yenilenmesini sağlar.
+
+**6.Kaldır:** Görseli silmek için kullanılan alandır. “Kaldır” ikonuna tıklandığında “Bu görseli silmek istiyor musunuz?” şeklinde uyarı çıkmaktadır.
+
+**Yaş Piramidi Veri Alanı**
+
+.. figure:: ./images/37.png
+   :alt: image
+
+**1.Tablolar & Kolonlar**
+
+Seçili modelde var olan tablo ve kolonların bulunduğu alandır.
+Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölümlere sürükle-bırak ile eklenir.
+
+1.1. **Ara:** Tablo ve kolonların arandığı alandır.
+
+1.2. **Tablo Kolon Listesi:** Seçili modelde yer alan tablo ve kolonların yer aldığı bölümdür.
+
 
