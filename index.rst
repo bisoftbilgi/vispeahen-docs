@@ -20,13 +20,14 @@ kullanıcı aşağıdaki adımları izlemelidir.
 .. figure:: ./images/2.png
    :alt: image
 
--  Kayıt için gerekli bilgiler girilir, “Kayıt Ol” butonuna tıklanarak
-   kullanıcı kaydı gerçekleştirilir.
+-  Kayıt için gerekli bilgiler girilir. “Kayıt Ol” butonuna tıklandıktan sonra kullanıcıya aktivasyon maili gitmektedir. 
+Kullanıcı mail adresinden aktivasyonu onayladıktan sonra sistem mail adresi ve şifresi ile giriş yapabilmektedir. 
+   
 
 .. figure:: ./images/3.png
    :alt: image
 
-.. ref:`Vispeahen Kullanıcı Oluşturma`
+
 
 **2. Giriş Yapma**
 ==================
@@ -56,7 +57,7 @@ Resim 1. Vispeahen Giriş Ekranı
    ekranı gelmektedir. Kullanıcı ile ilk defa girişte ya da herhangi bir
    label seçilmediyse açılış ekranı yönlendirme metni ile gelmektedir.
 
-.. figure:: ./images/6.png
+.. figure:: ./images/109.png
    :alt: image
 
 Resim 3. Vispeahen Açılış Ekranı
@@ -65,15 +66,16 @@ Kullanıcı açılış ekranında bulunan “Etiketler” ikonuna tıkladığın
 
 * İlk defa giriş yapıyorsa varsayılan olarak tanımlanan etiketler görüntülenir.
 
-.. figure:: ./images/7.png
+.. figure:: ./images/110.png
    :alt: image
 
 
 -  Daha önce tanımlamış olduğu etiket varsa o etiketleri seçenekler
    arasında görüntüleyebilir.
-
-.. figure:: ./images/7.png
+   
+ .. figure:: ./images/111.png
    :alt: image
+    
 
 
 
@@ -83,7 +85,7 @@ görüntülenmektedir.
 
 * Seçilen label’a herhangi bir rapor tanımlanmamışsa “Bu etikette hiçbir rapor bulunamadı” uyarısı yer almaktadır. Kullanıcı etiket altında olmasını istediği raporlara ilgili etiketleri tanımlamalıdır.
 
-.. figure:: ./8.png
+.. figure:: ./images/112.png
    :alt: image
 
 
