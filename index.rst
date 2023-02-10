@@ -2010,7 +2010,7 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
  2.2. **Koşulsal Formatlamayı Göster:**
 
 
- **3. Gelişmiş Legende Konfigürasyonu:**
+ **3. Gelişmiş Legend Konfigürasyonu:**
 
   3.1. **Ölçüm Gösterimi:**
 
@@ -2087,7 +2087,7 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
 **Radyal İlerleme Grafiği Ayarlar Alanı**
 
-.. figure:: ./images/88.png
+.. figure:: ./images/137.png
    :alt: image
 
 **1. Yazı Biçimlendirme**
@@ -2102,22 +2102,42 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
 **2. Genel Görünüm**
 
- **2.1. Palet**
+ 2.1. **Palet:** Grafikte kullanılmak istenen renk skalasının seçildiği alandır.
   
-  2.1.1. **Tema:** Grafik ön tanımlı temalar seçilerek görselleştirilir.
+ 2.2. **Arka Plan Rengi:** Grafiğe arka plan rengi verilen alandır. Paletten arka plan rengi seçilebilmektedir.
 
-  2.1.2. **Palet:** Grafik paletten seçilen renklere göre görselleştirilir.
+ 2.3. **Maksimum Değer:** İstenen maksimum değer girilir.
 
-  2.2. **Arka Plan Rengi:** Grafiğe arka plan rengi verilen alandır. Paletten arka plan rengi seçilebilmektedir.
+ 2.4. **Süre:** Grafikte görselleştirilen verinin ekrana getirilme süresinin girildiği alandır.
 
-  2.3. **Süre:** Grafikte görselleştirilen verinin ekrana getirilme süresinin girildiği alandır.
+**3. Başlık Ayarları**
 
-**3. Diğer**
+  3.1. **Başlık:** Grafiğin başlığının belirtildiği alandır.
 
-   3.1. **Yuvarlatılmış Köşeler:** Grafikte yer alan renklendirilmiş alanın köşelerinin yuvarlak hale dönüştürülmesini sağlayan seçenektir.
+  3.2. **Başlık Hizası:** Başlık orta, sağ veya sol olmak üzere istenen şekilde hizalama yapılabilir.
+
+  3.3. **Başlık Yazı Stilleri:** Başlığın yazı stili seçilebilmektedir.
+
+  3.4. **Başlık Yazı Tipi:** Bu alanda başlığın yazı tipi belirlenebilmektedir. 
+
+  3.5. **Başlık Font Boyutu:** Başlıkğın font boyutu burada seçilmektedir.
+
+  3.6. **Başlık Font Rengi:** Font renk seçime imkanı sunar.
+
+  3.7. **Başlık Özelliklerini Rapordaki Diğer Pluginlere Uygulama Alanı:** Başlığa dair yapılmış olan tüm düzenlemeleri raporda bulunan diğer plugin başlıklarına uygulanmasını sağlamaktadır.
+
+
+
+
+**4. Diğer**
+
+ 4.1. **Hata Gösterme:** 
+ 
+ 4.2. **Yuvarlatılmış Köşeler:** Grafikte yer alan renklendirilmiş alanın köşelerinin yuvarlak hale dönüştürülmesini sağlayan seçenektir.
 
 
 4.3.1.24. Sunburst
+===================
 
 .. figure:: ./images/89.png
    :alt: image
@@ -2167,7 +2187,7 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
 **Sunburst Grafiği Ayarlar Alanı**
 
-.. figure:: ./images/91.png
+.. figure:: ./images/138.png
    :alt: image
 
 **1. Genel Görünüm**
@@ -2180,17 +2200,30 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
       1.2.2. **Palet:** Grafik paletten seçilen renklere göre görselleştirilir.
 
-**2. Diğer**
+**2. Başlık Ayarları**
 
-  2.1. **Başlık:** Grafiğe başlık verilen alandır.
 
-  2.2. **Başlık Hizası:** Grafik başlığının sağ/orta/sol hizalamasının seçildiği alandır.
+  2.1. **Başlık:** Grafiğin başlığının belirtildiği alandır.
 
-  2.3. **Başlık Yazı Stilleri:** Grafik başlığının kalın/italik/altı çizili olmasının belirlendiği kısımdır.
+  2.2. **Başlık Hizası:** Başlık orta, sağ veya sol olmak üzere istenen şekilde hizalama yapılabilir.
 
-  2.4. **Koşulsal Formatlamayı Göster:** Koşulsal formatlama varsa ve bu kısım seçildiyse koşullar grafikte gösterilir.
-  
-  2.5. **Göstergeleri Göster:** Grafikte bu seçim yapıldıysa göstergeler grafikte yer alır.
+  2.3. **Başlık Yazı Stilleri:** Başlığın yazı stili seçilebilmektedir.
+
+  2.4. **Başlık Yazı Tipi:** Bu alanda başlığın yazı tipi belirlenebilmektedir. 
+
+  2.5. **Başlık Font Boyutu:** Başlıkğın font boyutu burada seçilmektedir.
+
+  2.6. **Başlık Font Rengi:** Font renk seçime imkanı sunar.
+
+  2.7. **Başlık Özelliklerini Rapordaki Diğer Pluginlere Uygulama Alanı:** Başlığa dair yapılmış olan tüm düzenlemeleri raporda bulunan diğer plugin başlıklarına uygulanmasını sağlamaktadır.
+
+
+
+**3. Diğer**
+
+ 3.1. **Koşulsal Formatlamayı Göster:** Koşulsal formatlama varsa ve bu kısım seçildiyse koşullar grafikte gösterilir.
+
+ 3.2. **Göstergeleri Göster:** Grafikte bu seçim yapıldıysa göstergeler grafikte yer alır.
 
 
 4.3.1.25. Sıvı Ölçek
@@ -2238,7 +2271,7 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
  Sıvı Ölçek Grafiği Ayarlar Alanı
 
-.. figure:: ./images/94.png
+.. figure:: ./images/139.png
    :alt: image
 
 **1.Genel Görünüm**
@@ -2255,23 +2288,39 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
    **1.6. Dalga Sayısı:** 
 
-**2. Diğer**
 
-   2.1. **Başlık:** Grafiğe başlık verilen alandır.
+**2. Başlık Ayarları**
 
-   2.2. **Başlık Hizası:** Grafik başlığının sağ/orta/sol hizalamasının seçildiği alandır.
+  2.1. **Başlık:** Grafiğin başlığının belirtildiği alandır.
 
-   2.3. **Başlık Yazı Stilleri:** Grafik başlığının kalın/italik/altı çizili olmasının belirlendiği kısımdır.
+  2.2. **Başlık Hizası:** Başlık orta, sağ veya sol olmak üzere istenen şekilde hizalama yapılabilir.
 
-   2.4. **Dalga Yükselme Süresi:** Dalganın yükselme süresinin girilmesi gereken alandır.
+  2.3. **Başlık Yazı Stilleri:** Başlığın yazı stili seçilebilmektedir.
 
-   2.5. **Dalga Animasyon Süresi:** Animasyon süresi olarak girilen sürede dalga hareketi yenilenmektedir.
+  2.4. **Başlık Yazı Tipi:** Bu alanda başlığın yazı tipi belirlenebilmektedir. 
 
-   2.6. **Dalga Yükseklik Boyutlandırması:**
+  2.5. **Başlık Font Boyutu:** Başlıkğın font boyutu burada seçilmektedir.
 
-   2.7. **Çember Doldurma Boşluğu:** Çember ile dalga arasındaki boşluk bilgisinin girildiği alandır.
+  2.6. **Başlık Font Rengi:** Font renk seçime imkanı sunar.
 
-   2.8. **Yüzdeli Göster:** Grafikteki sayısal değerin yüzdelik olarak gösterilme seçeneğidir. 
+  2.7. **Başlık Özelliklerini Rapordaki Diğer Pluginlere Uygulama Alanı:** Başlığa dair yapılmış olan tüm düzenlemeleri raporda bulunan diğer plugin başlıklarına uygulanmasını sağlamaktadır.
+
+
+
+
+**3. Diğer**
+
+ 3.1. **Dalga Yükselme Süresi:** Dalganın yükselme süresinin girilmesi gereken alandır.
+
+ 3.2. **Dalga Animasyon Süresi:** Animasyon süresi olarak girilen sürede dalga hareketi yenilenmektedir.
+
+ 3.3. **Dalga Yükseklik Boyutu:**
+
+ 3.4. **Dalga Yükseklik Boyutlandırması:**
+
+ 3.5. **Çember Doldurma Boşluğu:** Çember ile dalga arasındaki boşluk bilgisinin girildiği alandır.
+
+ 3.6. **Yüzdeli Göster:** Grafikteki sayısal değerin yüzdelik olarak gösterilme seçeneğidir. 
 
 
 4.3.1.26. Radar
@@ -2293,6 +2342,11 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
 **Radar Grafiği Veri Alanı**
 
+.. figure:: ./images/140.png
+   :alt: image
+
+
+
 **1. Tablolar & Kolonlar**
 
 Seçili modelde var olan tablo ve kolonların bulunduğu alandır.
@@ -2313,41 +2367,55 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
 **Radar Grafiği Ayarlar Alanı**
 
-.. figure:: ./images/96.png
+.. figure:: ./images/141.png
    :alt: image
 
 
 **1. Genel Görünüm**
 
-   1.1. **Boyut:** Grafik boyutunun ayarlandığı alandır.
+1.2. **Boyut:** Grafik boyutunun ayarlandığı alandır.
 
-   1.2. **Seviyeler:** Grafikte gösterilen yuvarlak çizgi (seviye) sayısının kaç tane olacağının belirlendiği alandır. 
+1.3. **Seviyeler:** Grafikte gösterilen yuvarlak çizgi (seviye) sayısının kaç tane olacağının belirlendiği alandır. 
 
-   1.3. **Nokta Boyutu:** Grafik üzerinde gösterilen değerin eksen ile birleştiği yerdeki nokta boyutunun belirlendiği alandır.
+1.4. **Nokta Boyutu:** Grafik üzerinde gösterilen değerin eksen ile birleştiği yerdeki nokta boyutunun belirlendiği alandır.
 
-   1.4. **Opaklığı Doldur:** Grafik içinde yer alan bölgenin saydamlık değerinin girildiği alandır.
+1.5. **Opaklığı Doldur:** Grafik içinde yer alan bölgenin saydamlık değerinin girildiği alandır.
 
-   1.5. **Dış Çizgi Opaklığı:** Grafik dış çizgisinin saydamlık değerinin girildiği alandır.
+1.6. **Dış Çizgi Opaklığı:** Grafik dış çizgisinin saydamlık değerinin girildiği alandır.
 
-   1.6. **Palet**
+1.7. **Palet**
 
-     1.6.1. **Tema:** Grafik ön tanımlı temalar seçilerek görselleştirilir.
+   1.7.1. **Tema:** Grafik ön tanımlı temalar seçilerek görselleştirilir.
 
-     1.6.2. **Palet:** Grafik paletten seçilen renklere göre görselleştirilir.
+   1.7.2. **Palet:** Grafik paletten seçilen renklere göre görselleştirilir.
 
-**2. Diğer**
 
-   2.1. **Başlık:** Grafiğe başlık verilen alandır.
+**2. Başlık Ayarları**
 
-   2.2. **Başlık Hizası:** Grafik başlığının sağ/orta/sol hizalamasının seçildiği alandır.
+  2.1. **Başlık:** Grafiğin başlığının belirtildiği alandır.
 
-   2.3. **Başlık Yazı Stilleri:** Grafik başlığının kalın/italik/altı çizili olmasının belirlendiği kısımdır.
+  2.2. **Başlık Hizası:** Başlık orta, sağ veya sol olmak üzere istenen şekilde hizalama yapılabilir.
 
-   2.4. **Arka Plan Rengi:** Grafiğe arka plan rengi verilen alandır. Paletten arka plan rengi seçilebilmektedir.
+  2.3. **Başlık Yazı Stilleri:** Başlığın yazı stili seçilebilmektedir.
 
-   2.5. **Göstergeleri Göster:** Grafikte bu seçim yapıldıysa göstergeler grafikte yer alır.
+  2.4. **Başlık Yazı Tipi:** Bu alanda başlığın yazı tipi belirlenebilmektedir. 
 
-   2.6. **Birbirinden Ayrı Ölçek:** Birden fazla ölçüm değeri mevcutsa her ölçüm değeri için ölçeklendirmenin yapılabileceğinin belirlendiği alandır.
+  2.5. **Başlık Font Boyutu:** Başlıkğın font boyutu burada seçilmektedir.
+
+  2.6. **Başlık Font Rengi:** Font renk seçime imkanı sunar.
+
+  2.7. **Başlık Özelliklerini Rapordaki Diğer Pluginlere Uygulama Alanı:** Başlığa dair yapılmış olan tüm düzenlemeleri raporda bulunan diğer plugin başlıklarına uygulanmasını sağlamaktadır.
+
+
+
+
+**3. Diğer**
+
+ 3.1. **Arka Plan Rengi:** Grafiğe arka plan rengi verilen alandır. Paletten arka plan rengi seçilebilmektedir.
+
+ 3.2. **Göstergeleri Göster:** Grafikte bu seçim yapıldıysa göstergeler grafikte yer alır.
+
+ 3.3. **Birbirinden Ayrı Ölçek:** Birden fazla ölçüm değeri mevcutsa her ölçüm değeri için ölçeklendirmenin yapılabileceğinin belirlendiği alandır.
 
 
 4.3.1.27. Pivot Tablo
@@ -2405,55 +2473,77 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 **Pivot Tablo Grafiği Ayarlar Alanı**
 
 
-.. figure:: ./images/99.png
+.. figure:: ./images/142.png
    :alt: image
 
 **1. Özellik**
 
-   1.1. **Gelişmiş Mod:** Pivot Tablo Enhanced moda geçiş için kullanılan alandır. Pivot enhanced modda birçok özellik bulunmaktadır.
+1.1. **Gelişmiş Mod:** Pivot Tablo Enhanced moda geçiş için kullanılan alandır. Pivot enhanced modda birçok özellik bulunmaktadır.
 
-      1.1.1. **Pivot Enhanced Mod**
-
+   
 **2. Yazı Biçimlendirme**
 
-   2.1. **Kolon Genişliği:** Yazılan boyutta pivot tablo kolonlarının başlık boyutu ayarlanmaktadır.
+2.1. **Kolon Genişliği:** Yazılan boyutta pivot tablo kolonlarının başlık boyutu ayarlanmaktadır.
 
-   2.2. **Kolon Yüksekliği:** Pivot kolon başlıklarının yüksekliğini belirlemektedir. Yazılan genişlik oranında pivot tablo kolon başlığını ayarlamaktadır.
+2.2. **Kolon Yüksekliği:** Pivot kolon başlıklarının yüksekliğini belirlemektedir. Yazılan genişlik oranında pivot tablo kolon başlığını ayarlamaktadır.
 
-   2.3. **Toplam Kolonunu Göster:** Pivot tabloda yer alan satır ve sütunların toplamlarını göstermesinin belirlendiği alandır.
+2.3. **Toplam Kolonunu Göster:** Pivot tabloda yer alan satır ve sütunların toplamlarını göstermesinin belirlendiği alandır.
 
-   2.4. **Değerleri Kolon Olarak Seç:** Ölçü değerlerini kolon olarak göstermeyi sağlar.
+2.4. **Değerleri Kolon Olarak Seç:** Ölçü değerlerini kolon olarak göstermeyi sağlar.
 
 **3. Genel Görünüm**
 
-   3.1. **Otomatik Boyutlandır:** Pivot tabloyu var olan grid içerisinde otomatik olarak boyutlandırmayı sağlar.
+3.1. **Otomatik Boyutlandır:** Pivot tabloyu var olan grid içerisinde otomatik olarak boyutlandırmayı sağlar.
 
-   3.2. **Kontrole İzin Ver:** Son kullanıcı tarafından değişiklik yapılmasını sağlayan butonun görünürlüğünün belirlendiği alandır.
+3.2. **Kontrole İzin Ver:** Son kullanıcı tarafından değişiklik yapılmasını sağlayan butonun görünürlüğünün belirlendiği alandır.
 
-   3.3. **Ara Toplam:** Grafikte ara toplam yapılmasına olanak sağlar. (Gruplanan her satır kolonuna ara toplam eklenmesini sağlar) Bu özelliğin kullanılması için satır alanına en az bir veri eklenmesi gerekmektedir.
+3.3. **Ara Toplam:** Grafikte ara toplam yapılmasına olanak sağlar. (Gruplanan her satır kolonuna ara toplam eklenmesini sağlar) Bu özelliğin kullanılması için satır alanına en az bir veri eklenmesi gerekmektedir.
 
-   3.4. **Başlıkları Sar:** Grafik kolon başlıkları beklenenden uzun geldiğinde boşluklara uygun olarak alt satıra geçirir.
+3.4. **Başlıkları Sar:** Grafik kolon başlıkları beklenenden uzun geldiğinde boşluklara uygun olarak alt satıra geçirir.
 
-   3.5. **Koşulsal Formatlamayı Göster:** Koşulsal formatlama varsa ve bu kısım seçildiyse koşullar grafikte gösterilir.
+3.5. **Koşulsal Formatlamayı Göster:** Koşulsal formatlama varsa ve bu kısım seçildiyse koşullar grafikte gösterilir.
 
-**4.Diğer**
 
-   4.1. **Başlık:** Grafiğe başlık verilen alandır.
 
-   4.2. **Başlık Hizası:** Grafik başlığının sağ/orta/sol hizalamasının seçildiği alandır.
+**4. Başlık Ayarları**
 
-   4.3. **Başlık Yazı Stilleri:** Grafik başlığının kalın/italik/altı çizili olmasının belirlendiği kısımdır.
+4.1. **Başlık:** Grafiğin başlığının belirtildiği alandır.
 
-   4.4. **Toplamları Seç:** Satır toplamı/sütun toplamı/Satır ve Sütun toplamı bilgilerinin grafikte gösterileceği seçmeli alandır.
+4.2. **Başlık Hizası:** Başlık orta, sağ veya sol olmak üzere istenen şekilde hizalama yapılabilir.
 
-   4.5. **Görselleştirme Tipi:** Pivot Tablo görselleştirilirken tablo şeklinde ya da Tablo Çubuk Grafiği ile grafik değerlerine göre çubukların oluşacağı seçiminin yapıldığı alandır.
+4.3. **Başlık Yazı Stilleri:** Başlığın yazı stili seçilebilmektedir.
 
-   4.6. **Tema Rengi:** Grafik genel görünümde yapılacak renk değişikliği alanıdır.
+4.4. **Başlık Yazı Tipi:** Bu alanda başlığın yazı tipi belirlenebilmektedir. 
 
-   4.7. **Pivot Tablo Açıklama:** Grafiğe açıklama/bilgi amaçlı yazılacak notların eklendiği alandır.  
+4.5. **Başlık Font Boyutu:** Başlıkğın font boyutu burada seçilmektedir.
+
+4.6. **Başlık Font Rengi:** Font renk seçime imkanı sunar.
+
+4.7. **Başlık Özelliklerini Rapordaki Diğer Pluginlere Uygulama Alanı:** Başlığa dair yapılmış olan tüm düzenlemeleri raporda bulunan diğer plugin başlıklarına uygulanmasını sağlamaktadır.
+
+
+
+
+
+**5.Diğer**
+
+5.1. **Başlık:** Grafiğe başlık verilen alandır.
+
+5.2. **Başlık Hizası:** Grafik başlığının sağ/orta/sol hizalamasının seçildiği alandır.
+
+5.3. **Başlık Yazı Stilleri:** Grafik başlığının kalın/italik/altı çizili olmasının belirlendiği kısımdır.
+
+5.4. **Toplamları Seç:** Satır toplamı/sütun toplamı/Satır ve Sütun toplamı bilgilerinin grafikte gösterileceği seçmeli alandır.
+
+5.5. **Görselleştirme Tipi:** Pivot Tablo görselleştirilirken tablo şeklinde ya da Tablo Çubuk Grafiği ile grafik değerlerine göre çubukların oluşacağı seçiminin yapıldığı alandır.
+
+5.6. **Tema Rengi:** Grafik genel görünümde yapılacak renk değişikliği alanıdır.
+
+5.7. **Pivot Tablo Açıklama:** Grafiğe açıklama/bilgi amaçlı yazılacak notların eklendiği alandır.  
 
 
 4.3.1.28. Tablo
+===============
 
 .. figure:: ./images/100.png
    :alt: image
@@ -2503,14 +2593,14 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
  
   **Tablo Grafiği Ayarlar Alanı**
 
-  .. figure:: ./images/102.png
+  .. figure:: ./images/143.png
    :alt: image
 
 **1. Yazı Biçimlendirme**
 
   1.1. **Kolon Yüksekliği:** Yazılan boyutta tablo kolonlarının başlık boyutu ayarlanmaktadır.
 
-  1.2. **Satır Yüksekliği:* Tabloda verilerin bulunduğu alan yüksekliğinin belirlendiği kısımdır.
+  1.2. **Satır Yüksekliği:** Tabloda verilerin bulunduğu alan yüksekliğinin belirlendiği kısımdır.
 
   1.3. **Yazı Tipi:** Grafikte bulunan kolon başlıkları, verilerin yer aldığı kısımlara ilişkin yazı font değişikliğinin yapıldığı alandır.
 
@@ -2572,7 +2662,7 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 4.3.1.29. Ağaç Haritası
 ========================
 
-.. figure:: ./images/103.png
+.. figure:: ./images/144.png
    :alt: image
 
 1. **Araçları Aç/Kapat:** Görsel ile ilgili düzenleme yapılan ikonların açıp kapatıldığı ikondur.
@@ -2619,7 +2709,7 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
  **Ağaç Harita Grafiği Ayarlar Alanı**
 
- .. figure:: ./images/105.png
+ .. figure:: ./images/145.png
    :alt: image
 
 **1. Genel Görünüm**
@@ -2632,15 +2722,34 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
  1.4. **Yuvarlatılmış Köşeler:** Grafik köşelerinin kenar seçiminin yuvarlak olma durumunun seçildiği alandır.
 
-**2. Diğer**
 
- 2.1. **Başlık:** Grafiğe başlık verilen alandır.
+**2. Başlık Ayarları**
 
- 2.2. **Başlık Hizası:** Grafik başlığının sağ/orta/sol hizalamasının seçildiği alandır.
+  2.1. **Başlık:** Grafiğin başlığının belirtildiği alandır.
 
- 2.3. **Başlık Yazı Stilleri:** Grafik başlığının kalın/italik/altı çizili olmasının belirlendiği kısımdır.
+  2.2. **Başlık Hizası:** Başlık orta, sağ veya sol olmak üzere istenen şekilde hizalama yapılabilir.
 
- 2.4. **Koşulsal Formatlamayı Göster:** Koşulsal formatlama varsa ve bu kısım seçildiyse koşullar grafikte gösterilir.
+  2.3. **Başlık Yazı Stilleri:** Başlığın yazı stili seçilebilmektedir.
+
+  2.4. **Başlık Yazı Tipi:** Bu alanda başlığın yazı tipi belirlenebilmektedir. 
+
+  2.5. **Başlık Font Boyutu:** Başlıkğın font boyutu burada seçilmektedir.
+
+  2.6. **Başlık Font Rengi:** Font renk seçime imkanı sunar.
+
+  2.7. **Başlık Özelliklerini Rapordaki Diğer Pluginlere Uygulama Alanı:** Başlığa dair yapılmış olan tüm düzenlemeleri raporda bulunan diğer plugin başlıklarına uygulanmasını sağlamaktadır.
+
+
+
+**3. Diğer**
+
+3.1. **Başlık:** Grafiğe başlık verilen alandır.
+
+3.2. **Başlık Hizası:** Grafik başlığının sağ/orta/sol hizalamasının seçildiği alandır.
+
+3.3. **Başlık Yazı Stilleri:** Grafik başlığının kalın/italik/altı çizili olmasının belirlendiği kısımdır.
+
+3.4. **Koşulsal Formatlamayı Göster:** Koşulsal formatlama varsa ve bu kısım seçildiyse koşullar grafikte gösterilir.
 
 
 4.3.1.30. Kelime Bulutu
