@@ -125,10 +125,10 @@ Rapor açılış ekranının solunda bulunan “Yeni Kumanda Tablosu” ikonuna 
 **1. Rapor Başlık Alanı:** Oluşturulan rapora verilen başlık bilgisinin
 yer aldığı alandır.
 
+**2. Ana Sayfaya Dönüş Alanı:** Kullanıcının ana sayfaya dönmesini sağlar.
+
 **3. Yardım Alanı:** Vispeahen kullanımı için
 yardım dokümanının bulunduğu alandır.
-
-**2. Ana Sayfaya Dönüş Alanı:** Kullanıcının ana sayfaya dönmesini sağlar.
 
 **4. Profil Alanı:** Kullanıcı
 profil alanıdır. Yetki dâhilinde “Yönetim Paneli” sayfasına geçiş
@@ -142,7 +142,7 @@ alandır.
 
 **7. Yenile Alanı:** Raporun yenilendiği alandır.
 
-**. Otomatik Yenileme Alanı:** Belirlenen sürede raporun yenilendiği alandır.
+**8. Otomatik Yenileme Alanı:** Belirlenen sürede raporun yenilendiği alandır.
 
 **9.Dışarı Aktar Alanı:** Excel/Pdf/Png çıktısı alınan alandır.
 
@@ -292,14 +292,19 @@ alandır.
 
 
 
-3. Bilgi: Kolon bilgisi alanıdır.
+**1. Bilgi:** Kolon bilgisi alanıdır.
    
-4. Adını Değiştir: Kolonun görünür isminin değiştirildiği kısımdır.
+**2. Adını Değiştir:** Kolonun görünür isminin değiştirildiği kısımdır.
  “Kaydet” butonuna tıklanarak yapılan değişiklikler kaydedilir.
 
-  4.3. **Rapor Oluşturma**
+4.3. **Rapor Oluşturma**
+=========================
+
 Etkileşimli raporlar oluşturmak için görsellerin rapor alanına eklenmesi gerekir.
-  4.3.1. **Görsel Listesi**
+
+**4.3.1. Görsel Listesi**
+==========================
+
 Görselleştirme için “Görsel Listesi” ikonuna tıklanarak görseller eklenir.
 
 .. figure:: ./images/23.png
@@ -367,17 +372,17 @@ tablo ve kolonların yer aldığı bölümdür.
 
 **Scatter Grafiği Ayarlar Alanı**
 
-.. figure:: ./images/116.png
+.. figure:: ./images/146.png
    :alt: image
 
 
 
 **1. Genel Görünüm**
 
-  1. 1. **En Büyük Nokta Boyutu:** Grafiği oluşturan noktalardan değeri en
+  1.1. **En Büyük Nokta Boyutu:** Grafiği oluşturan noktalardan değeri en
 büyük olanın boyutunun ayarlandığı alandır.
 
-  1. 2. **En Küçük Nokta Boyutu:** Grafiği oluşturan noktalardan değeri en küçük olanın boyutunun
+  1.2. **En Küçük Nokta Boyutu:** Grafiği oluşturan noktalardan değeri en küçük olanın boyutunun
 ayarlandığı alandır.
 
   1.3. **Arka Plan Rengi:** Grafiğe arka plan rengi verilen alandır. Paletten arka plan rengi seçilebilmektedir.
@@ -390,7 +395,7 @@ ayarlandığı alandır.
 
 **2. Başlık ayarları**
 
-  2. 1. **Başlık:** Grafiğin başlığının belirtildiği alandır.
+  1.1. **Başlık:** Grafiğin başlığının belirtildiği alandır.
 
   2.2. **Başlık Hizası:** Başlık orta, sağ veya sol olmak üzere istenen şekilde hizalama yapılabilir.
 
@@ -412,19 +417,14 @@ ayarlandığı alandır.
 
 **3. Diğer**
 
-  3.1. **Başlık:** Grafiğe başlık verilen alandır.
-
-  3.2. **Başlık Hizası:** Grafik başlığının sağ/orta/sol hizalamasının seçildiği
-alandır.
-
-  3.3. **Başlık Yazı Stilleri:** Grafik başlığının kalın/italik/altı çizili olmasının belirlendiği kısımdır.
-
-  3.4. **X Eksen Başlığı:** Grafiğin yatay alandaki başlığın düzenlendiği alandır.
+  3.1. **X Eksen Başlığı:** Grafiğin yatay alandaki başlığın düzenlendiği alandır.
   
-  3.5. **Y Eksen Başlığı:** Grafiğin dikey alandaki başlığın düzenlendiği alandır. 2.6. **Doğrusal Regresyon:** Grafikteki doğrusal
+  3.2. **Y Eksen Başlığı:** Grafiğin dikey alandaki başlığın düzenlendiği alandır. 2.6. **Doğrusal Regresyon:** Grafikteki doğrusal
 çizginin eklenip eklenmeme durumu belirlenir.
 
-  3.7. **Sürükleyerek Seçim:** Grafik üzerindeki birden fazla noktanın alan olarak seçilme
+  3.3. **Doğrusal Regresyon:** Grafikteki doğrusal çizginin eklenip eklenmeme durumu belirlenir.
+
+  3.4. **Sürükleyerek Seçim:** Grafik üzerindeki birden fazla noktanın alan olarak seçilme
 durumu belirlenir.
 
 4.3.1.2.Chord Diagram
@@ -446,6 +446,8 @@ durumu belirlenir.
 #. **Yenile:** Veri alanı ile grafiğin çalışması ve grafiğin yenilenmesini sağlar.
 
 #. **Kaldır:** Görseli silmek için kullanılan alandır. “Kaldır” ikonuna tıklandığında “Bu görseli silmek istiyor musunuz?” şeklinde uyarı çıkmaktadır.
+
+#. **Başlık:** Grafiğe başlık verilen alandır.
 
 **Not:** Etkileşim-Navigasyon alanları grafiklerde ortak olduğundan ayrı başlıkta yer alacaktır.
 
@@ -475,18 +477,18 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
 **Chord Diagram Ayarlar Alanı**
 
-.. figure:: ./images/118.png
+.. figure:: ./images/147.png
    :alt: image
 
 **1.Genel Görünüm**
 
  1.1. **Arka Plan Rengi:** Grafiğe arka plan rengi verilen alandır. Paletten arka plan rengi seçilebilmektedir.
 
-**2.Palet**
+ 1.2. **Palet**
 
-  2.1. **Tema:** Grafik ön tanımlı temalar seçilerek görselleştirilir.
+   1.2.1. **Tema:** Grafik ön tanımlı temalar seçilerek görselleştirilir.
 
-  2.2. **Palet:** Grafik paletten seçilen renklere göre görselleştirilir.
+   1.2.2. **Palet:** Grafik paletten seçilen renklere göre görselleştirilir.
 
 
 **2. Başlık ayarları**
@@ -529,6 +531,8 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
 **7. Kaldır:** Görseli silmek için kullanılan alandır. “Kaldır” ikonuna tıklandığında “Bu görseli silmek istiyor musunuz?” şeklinde uyarı çıkmaktadır.
 
+**8. Başlık:** Başlık: Grafiğe başlık verilen alandır.
+
 **Not:** Etkileşim-Navigasyon alanları grafiklerde ortak olduğundan ayrı başlıkta yer alacaktır.
 
 **Sankey Grafiği Veri Alanı**
@@ -562,7 +566,7 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
 1.1. **Arka Plan Rengi:** Grafiğe arka plan rengi verilen alandır. Paletten arka plan rengi seçilebilmektedir.
 
-1.2.**Palet**
+1.2. **Palet**
 
  1.2.1. **Tema:** Grafik ön tanımlı temalar seçilerek görselleştirilir.
 
@@ -601,6 +605,9 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
 **5.Kaldır:** Görseli silmek için kullanılan alandır. “Kaldır” ikonuna tıklandığında “Bu görseli silmek istiyor musunuz?” şeklinde uyarı çıkmaktadır.
 
+**6.Başlık:** Grafiğe başlık verilen alandır.
+
+
 **Silindir Bar Grafiği Veri Alanı**
 
 .. figure:: ./images/34.png
@@ -624,27 +631,30 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
  
 **Silindir Bar Grafiği Ayarlar Alanı**
 
-.. figure:: ./images/120.png
+.. figure:: ./images/148.png
    :alt: image
 
-**2. Başlık ayarları**
+**1. Başlık ayarları**
 
-  2.1. **Başlık:** Grafiğin başlığının belirtildiği alandır.
+  1.1. **Başlık:** Grafiğin başlığının belirtildiği alandır.
 
-  2.2. **Başlık Hizası:** Başlık orta, sağ veya sol olmak üzere istenen şekilde hizalama yapılabilir.
+  1.2. **Başlık Hizası:** Başlık orta, sağ veya sol olmak üzere istenen şekilde hizalama yapılabilir.
 
-  2.3. **Başlık Yazı Stilleri:** Başlığın yazı stili seçilebilmektedir.
+  1.3. **Başlık Yazı Stilleri:** Başlığın yazı stili seçilebilmektedir.
 
-  2.4. **Başlık Yazı Tipi:** Bu alanda başlığın yazı tipi belirlenebilmektedir. 
+  1.4. **Başlık Yazı Tipi:** Bu alanda başlığın yazı tipi belirlenebilmektedir. 
 
-  2.5. **Başlık Font Boyutu:** Başlıkğın font boyutu burada seçilmektedir.
+  1.5. **Başlık Font Boyutu:** Başlıkğın font boyutu burada seçilmektedir.
 
-  2.6. **Başlık Font Rengi:** Font renk seçime imkanı sunar.
+  1.6. **Başlık Font Rengi:** Font renk seçime imkanı sunar.
 
-  2.7. **Başlık Özelliklerini Rapordaki Diğer Pluginlere Uygulama Alanı:** Başlığa dair yapılmış olan tüm düzenlemeleri raporda bulunan diğer plugin başlıklarına uygulanmasını sağlamaktadır.
+  1.7. **Başlık Özelliklerini Rapordaki Diğer Pluginlere Uygulama Alanı:** Başlığa dair yapılmış olan tüm düzenlemeleri raporda bulunan diğer plugin başlıklarına uygulanmasını sağlamaktadır.
 
+**2.Diğer**
 
-1. 3. 1. 5. Yaş Piramidi
+ 2.1. **Arkaplan Rengi:** Grafiğe arka plan rengi verilen alandır
+
+4. 3. 1. 5. Yaş Piramidi
 ========================
 
 
@@ -665,10 +675,12 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
 **6.Kaldır:** Görseli silmek için kullanılan alandır. “Kaldır” ikonuna tıklandığında “Bu görseli silmek istiyor musunuz?” şeklinde uyarı çıkmaktadır.
 
+**7.Başlık:** Grafiğe başlık verilen alandır.
+
 **Yaş Piramidi Veri Alanı**
 
 
-.. figure:: ./images/37.png
+.. figure:: ./images/149.png
    :alt: image
 
 **1.Tablolar & Kolonlar**
@@ -707,21 +719,21 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
    1.2.2. **Palet:** Grafik paletten seçilen renklere göre görselleştirilir.
 
-**1. Başlık ayarları**
+**2. Başlık ayarları**
 
-  1.1. **Başlık:** Grafiğin başlığının belirtildiği alandır.
+  2.1. **Başlık:** Grafiğin başlığının belirtildiği alandır.
 
-  1.2. **Başlık Hizası:** Başlık orta, sağ veya sol olmak üzere istenen şekilde hizalama yapılabilir.
+  2.2. **Başlık Hizası:** Başlık orta, sağ veya sol olmak üzere istenen şekilde hizalama yapılabilir.
 
-  1.3. **Başlık Yazı Stilleri:** Başlığın yazı stili seçilebilmektedir.
+  2.3. **Başlık Yazı Stilleri:** Başlığın yazı stili seçilebilmektedir.
 
-  1.4. **Başlık Yazı Tipi:** Bu alanda başlığın yazı tipi belirlenebilmektedir. 
+  2.4. **Başlık Yazı Tipi:** Bu alanda başlığın yazı tipi belirlenebilmektedir. 
 
-  1.5. **Başlık Font Boyutu:** Başlıkğın font boyutu burada seçilmektedir.
+  2.5. **Başlık Font Boyutu:** Başlıkğın font boyutu burada seçilmektedir.
 
-  1.6. **Başlık Font Rengi:** Font renk seçime imkanı sunar.
+  2.6. **Başlık Font Rengi:** Font renk seçime imkanı sunar.
 
-  1.7. **Başlık Özelliklerini Rapordaki Diğer Pluginlere Uygulama Alanı:** Başlığa dair yapılmış olan tüm düzenlemeleri raporda bulunan diğer plugin başlıklarına uygulanmasını sağlamaktadır.
+  2.7. **Başlık Özelliklerini Rapordaki Diğer Pluginlere Uygulama Alanı:** Başlığa dair yapılmış olan tüm düzenlemeleri raporda bulunan diğer plugin başlıklarına uygulanmasını sağlamaktadır.
            
 4.3.1.6.Çok Eksenli Grafik
 ===========================
@@ -744,6 +756,9 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 **7. Yenile:** Veri alanı ile grafiğin çalışması ve grafiğin yenilenmesini sağlar.
 
 **8. Kaldır:** Görseli silmek için kullanılan alandır. “Kaldır” ikonuna tıklandığında “Bu görseli silmek istiyor musunuz?” şeklinde uyarı çıkmaktadır.
+
+**9. Başlık:** Grafiğe başlık verilen alandır.
+
 
 **Not:** Koşulsal Formatlama-Etkileşim-Navigasyon alanları grafiklerde ortak olduğundan ayrı başlıkta yer alacaktır.
 
@@ -792,9 +807,9 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
  1.5. **Palet:** Grafik paletten seçilen renklere göre görselleştirilir.
 
- 1.6. Çizgi Kalınlığı:** Grafikte çizgi görselinin kalınlığının ayarlandığı alandır.
+ 1.6. **Çizgi Kalınlığı:** Grafikte çizgi görselinin kalınlığının ayarlandığı alandır.
 
- 1.7. Nokta Boyutu:** Grafikte çizgi görselinin değerinin gösterildiği nokta boyutunun ayarlandığı alandır.
+ 1.7. **Nokta Boyutu:** Grafikte çizgi görselinin değerinin gösterildiği nokta boyutunun ayarlandığı alandır.
 
  
 
@@ -806,11 +821,13 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
  2.3. **Başlık Yazı Stilleri:** Grafik başlığının kalın/italik/altı çizili olmasının belirlendiği kısımdır.
 
- 2.4. **Başlık Font Boyutu:** Grafik başlığına ilişkin yazı font boyutunun değiştirildiği alandır.
+ 2.4. **Başlık Yazı Tipi:** Grafik yazı font değişikliğinin yapıldığı alandır.
+ 
+ 2.5. **Başlık Font Boyutu:** Grafik başlığına ilişkin yazı font boyutunun değiştirildiği alandır.
 
- 2.5. **Başlık Font Rengi:** Grafik başlığı font rengi değişikliğinin yapıldığı alandır.
+ 2.6. **Başlık Font Rengi:** Grafik başlığı font rengi değişikliğinin yapıldığı alandır.
 
- 2.6. **Başlık Özelliklerini Rapordaki Diğer Pluginlere Uygula:** Grafik başlığına uygulanan tüm değişikliklerin rapor ekranında bulunan tüm grafiklere uygulanmasını sağlar. 
+ 2.7. **Başlık Özelliklerini Rapordaki Diğer Pluginlere Uygula:** Grafik başlığına uygulanan tüm değişikliklerin rapor ekranında bulunan tüm grafiklere uygulanmasını sağlar. 
 
 
 **3. Diğer**
@@ -839,6 +856,8 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
 6. **Kaldır:** Görseli silmek için kullanılan alandır. “Kaldır” ikonuna tıklandığında “Bu görseli silmek istiyor musunuz?” şeklinde uyarı çıkmaktadır.
 
+7. **Başlık:**Grafiğe başlık verilen alandır.
+   
 **Not:** Etkileşim alanı grafiklerde ortak olduğundan ayrı başlıkta yer alacaktır.
 
 **Filtre Veri Alanı**
@@ -921,6 +940,9 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
 **6. Kaldır:** Görseli silmek için kullanılan alandır. “Kaldır” ikonuna tıklandığında “Bu görseli silmek istiyor musunuz?” şeklinde uyarı çıkmaktadır.
 
+**7. Başlık:** Grafiğe başlık verilen alandır.
+
+
 **Not:** Etkileşim alanı grafiklerde ortak olduğundan ayrı başlıkta yer alacaktır.
 
 
@@ -955,7 +977,7 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
  1.1. **Çoklu Seçim:** Grafik üzerinde çoklu seçim yapılabilme özelliğini aktif hale getirir.
 
- 1.2. **Yazıları Sar:** 
+ 1.2. **Yazıları Sar:** Seçeneklerin yazı uzunluğuna göre grafikte tamamen  görünüp görünmeyeceğine karar verme seçeneği sunar. 
 
  1.3. **Varsayılan Sıralama Yönü:** Seçenekleri dikey ya da yatay olmak üzere iki şekilde sıralama yapmayı sağlayan alandır.
 
@@ -1008,6 +1030,8 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
 **6. Kaldır:** Görseli silmek için kullanılan alandır. “Kaldır” ikonuna tıklandığında “Bu görseli silmek istiyor musunuz?” şeklinde uyarı çıkmaktadır.
 
+**7. Başlık:** Grafiğe başlık verilen alandır.
+
 **Not:** Etkileşim alanı grafiklerde ortak olduğundan ayrı başlıkta yer alacaktır.
 
 Radio Buton Filtre Veri Alanı
@@ -1029,6 +1053,7 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 **2. Kolon Eşleştirmeleri**
 
  2.1. **Sıralama:** Kolon verisinin artan/azalan şekilde sıralamasının yapıldığı alandır.
+
  2.2. **Filtre:** Grafikte yer alacak verinin ekleneceği alandır.
 
 Radio Buton Filtre Ayarlar Alanı
@@ -1040,7 +1065,7 @@ Radio Buton Filtre Ayarlar Alanı
 
  1.1. **Çoklu Seçim:** Grafik üzerinde çoklu seçim yapılabilme özelliğini aktif hale getirir.
 
- 1.2. **Yazıları Sar:** 
+ 1.2. **Yazıları Sar:** Seçeneklerin yazı uzunluğuna göre grafikte tamamen  görünüp görünmeyeceğine karar verme seçeneği sunar. 
 
  1.3. **Varsayılan Sıralama Yönü:** Seçenekleri dikey ya da yatay olmak üzere iki şekilde sıralama yapmayı sağlayan alandır.
 
@@ -1093,6 +1118,9 @@ Radio Buton Filtre Ayarlar Alanı
 6. **Yenile:** Veri alanı ile grafiğin çalışması ve grafiğin yenilenmesini sağlar.
 
 7. **Kaldır:** Görseli silmek için kullanılan alandır. “Kaldır” ikonuna tıklandığında “Bu görseli silmek istiyor musunuz?” şeklinde uyarı çıkmaktadır.
+
+8. **Başlık:** Grafiğe başlık verilen alandır.
+
 
 **Not:** Etkileşim, Navigation alanı grafiklerde ortak olduğundan ayrı başlıkta yer alacaktır.
 
@@ -1183,17 +1211,19 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
 **2. Veri:** Kullanıcının kendi verileriyle görseli şekillendireceği alandır.
 
-**2. Ayarlar:** Görselin renk/başlık gibi biçimsel özelliklerinin değiştirildiği alandır.
+**3. Ayarlar:** Görselin renk/başlık gibi biçimsel özelliklerinin değiştirildiği alandır.
 
-**3. Koşulsal Formatlama:** Grafik üzerinde tanımlanan belirli bir kural neticesinde verileri gözle daha kolay bir şekilde taramak için renksel ya da şekilsel biçimlendirmeler yapılan alandır.
+**4. Koşulsal Formatlama:** Grafik üzerinde tanımlanan belirli bir kural neticesinde verileri gözle daha kolay bir şekilde taramak için renksel ya da şekilsel biçimlendirmeler yapılan alandır.
 
-**4. Etkileşim:** Görselden diğer görsellere filtre verilen alandır.
+**5. Etkileşim:** Görselden diğer görsellere filtre verilen alandır.
 
-**5. Navigasyon:** Görselden belirlenen parametreye göre navigasyon verilen alandır.
+**6. Navigasyon:** Görselden belirlenen parametreye göre navigasyon verilen alandır.
 
-**6. Yenile:** Veri alanı ile grafiğin çalışması ve grafiğin yenilenmesini sağlar.
+**7. Yenile:** Veri alanı ile grafiğin çalışması ve grafiğin yenilenmesini sağlar.
 
-**7. Kaldır:** Görseli silmek için kullanılan alandır. “Kaldır” ikonuna tıklandığında “Bu görseli silmek istiyor musunuz?” şeklinde uyarı çıkmaktadır.
+**8. Kaldır:** Görseli silmek için kullanılan alandır. “Kaldır” ikonuna tıklandığında “Bu görseli silmek istiyor musunuz?” şeklinde uyarı çıkmaktadır.
+
+**9. Başlık:** Grafiğe başlık verilen alandır.
 
 **Not:** Etkileşim, Navigation, Koşulsal Formatlama alanları grafiklerde ortak olduğundan ayrı başlıkta yer alacaktır.
  
@@ -1233,33 +1263,33 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
 **1. Topojson**
 
-1.1. **Topojson:** Coğrafi haritanın şekillenmesi için coğrafi verinin yer aldığı ve ilgili topojson’ın kullanıcı tarafından seçildiği kısımdır. (Organizasyon bünyesinde kullanılan topojson varsa eklenerek grafik üzerinde görselleştirilebilir) 
+ 1.1. **Topojson:** Coğrafi haritanın şekillenmesi için coğrafi verinin yer aldığı ve ilgili topojson’ın kullanıcı tarafından seçildiği kısımdır. (Organizasyon bünyesinde kullanılan topojson varsa eklenerek grafik üzerinde görselleştirilebilir) 
 
-1.2. **Feature Code:** Topojson’da yer alan ve veri alanındaki kod ile eşleşecek alandır. (Örneğin; topojson olarak Türkiye İller topojson’ı seçildiği varsayılırsa Feature Code plaka olacaktır)
+ 1.2. **Feature Code:** Topojson’da yer alan ve veri alanındaki kod ile eşleşecek alandır. (Örneğin; topojson olarak Türkiye İller topojson’ı seçildiği varsayılırsa Feature Code plaka olacaktır)
 
-1.3. **Feature Description:** Topojson’da yer alan kod alanına karşılık açıklama bilgisinin seçildiği alandır. (Örneğin; topojson olarak Türkiye İller topojson’ı seçildiği varsayılırsa Feature Description il adı olacaktır)
+ 1.3. **Feature Description:** Topojson’da yer alan kod alanına karşılık açıklama bilgisinin seçildiği alandır. (Örneğin; topojson olarak Türkiye İller topojson’ı seçildiği varsayılırsa Feature Description il adı olacaktır)
 
 **2.Genel Görünüm**
 
-2.1. **Renk Ölçek Tipi:** Ölçeklendirmenin verinin en küçük - en büyük değer aralığında ya da verinin en küçük – en büyük yüzdeliği aralığında yapılacağının belirlendiği alandır.
+ 2.1. **Renk Ölçek Tipi:** Ölçeklendirmenin verinin en küçük - en büyük değer aralığında ya da verinin en küçük – en büyük yüzdeliği aralığında yapılacağının belirlendiği alandır.
 
-2.2. **Opaklık:** Harita saydamlığının belirlendiği kısımdır.
+ 2.2. **Opaklık:** Harita saydamlığının belirlendiği kısımdır.
 
-2.3. **Göstergeleri Göster:** Haritada bu seçim yapıldıysa göstergeler grafikte yer alır.
+ 2.3. **Göstergeleri Göster:** Haritada bu seçim yapıldıysa göstergeler grafikte yer alır.
 
-2.4. **Gösterge Konumu:** Haritada yer alan göstergenin konumunu belirlemeyi sağlar.
+ 2.4. **Gösterge Konumu:** Haritada yer alan göstergenin konumunu belirlemeyi sağlar.
 
-2.5. **Çizgi Kalınlığı:** Haritada yer alan bölgeler üzerine gelindiğinde bölge çerçeve kalınlığının belirlendiği alandır.
+ 2.5. **Çizgi Kalınlığı:** Haritada yer alan bölgeler üzerine gelindiğinde bölge çerçeve kalınlığının belirlendiği alandır.
 
-2.6. **Boş Veri Rengi:** Harita üzerinde boş veri varsa renginin seçildiği alandır.
+ 2.6. **Boş Veri Rengi:** Harita üzerinde boş veri varsa renginin seçildiği alandır.
 
-2.7. **Seçim Rengi:** Harita üzerinde seçim yapılan alan renginin seçildiği kısımdır.
+ 2.7. **Seçim Rengi:** Harita üzerinde seçim yapılan alan renginin seçildiği kısımdır.
 
-2.8. **Palet:** Harita paletten seçilen renklere göre görselleştirilir.
+ 2.8. **Palet:** Harita paletten seçilen renklere göre görselleştirilir.
 
-2.9. **Harita Döşeme:** Harita görünümü ile ilgili seçimin yapıldığı kısımdır. 
+ 2.9. **Harita Döşeme:** Harita görünümü ile ilgili seçimin yapıldığı kısımdır. 
 
-2.10. **Harita Altlığı Seçimi:** Haritada altlık olarak kullanılacak harita altlığını seçebilmeyi sağlar.
+ 2.10. **Harita Altlığı Seçimi:** Haritada altlık olarak kullanılacak harita altlığını seçebilmeyi sağlar.
 
 
 
@@ -1300,6 +1330,8 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 **4. Yenile:** Veri alanı ile grafiğin çalışması ve grafiğin yenilenmesini sağlar.
 
 **5. Kaldır:** Görseli silmek için kullanılan alandır. “Kaldır” ikonuna tıklandığında “Bu görseli silmek istiyor musunuz?” şeklinde uyarı çıkmaktadır.
+
+**6. Başlık:** Grafiğe başlık verilen alandır.
 
 Cluster Map Veri Alanı
 
@@ -1376,6 +1408,8 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
 **5.Kaldır:** Görseli silmek için kullanılan alandır. “Kaldır” ikonuna tıklandığında “Bu görseli silmek istiyor musunuz?” şeklinde uyarı çıkmaktadır.
 
+**6. Başlık:** Grafiğe başlık verilen alandır.
+
 Heatmap Harita Veri Alanı
 
 .. figure:: ./images/60.png
@@ -1388,29 +1422,31 @@ Seçili modelde var olan tablo ve kolonların bulunduğu alandır.
 
 Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölümlere sürükle-bırak ile eklenir.
 
-1. **Ara:** Tablo ve kolonların arandığı alandır.
+ 1.1. **Ara:** Tablo ve kolonların arandığı alandır.
 
-2. **Tablo Kolon Listesi:** Seçili modelde yer alan tablo ve kolonların yer aldığı bölümdür.
+ 1.2. **Tablo Kolon Listesi:** Seçili modelde yer alan tablo ve kolonların yer aldığı bölümdür.
    
 **2. Kolon Eşleştirmeleri**
 
-2.1. **Sıralama:** Kolon verisinin artan/azalan şekilde sıralamasının yapıldığı alandır.
+ 2.1. **Sıralama:** Kolon verisinin artan/azalan şekilde sıralamasının yapıldığı alandır.
 
-2.2. **Boylam:** Haritada gösterilecek alanların boylam bilgisinin yer aldığı veri alanıdır.
+ 2.2. **Boylam:** Haritada gösterilecek alanların boylam bilgisinin yer aldığı veri alanıdır.
 
-2.3. **Enlem:** Haritada gösterilecek alanların enlem bilgisinin yer aldığı veri alanıdır.
+ 2.3. **Enlem:** Haritada gösterilecek alanların enlem bilgisinin yer aldığı veri alanıdır.
 
-2.4. **Ölçü Değeri:** Grafiği şekillendirmek için kullanılacak sayısal verinin eklendiği alandır.
+ 2.4. **Ölçü Değeri:** Grafiği şekillendirmek için kullanılacak sayısal verinin eklendiği alandır.
 
 **Heatmap Harita Ayarlar Alanı**
 
-.. figure:: ./images/124.png
+.. figure:: ./images/150.png
    :alt: image
 
 **1. Genel Görünüm**
 
   1.1. **Palet:** Grafik paletten seçilen renklere göre görselleştirilir.  
+
   1.2. **Yoğunluk:** Harita üzerindeki yoğunluk dağılımını yakınlaştırıp uzaklaştırmak için kullanılan alandır.
+
   1.3. **Harita Döşeme:** Harita görünümü ile ilgili seçimin yapıldığı kısımdır.
 
 **2. Başlık Ayarları**
@@ -1443,9 +1479,11 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
 **4.Etkileşim:** Görselden diğer görsellere filtre verilen alandır.Yenile: Veri alanı ile grafiğin çalışması ve grafiğin yenilenmesini sağlar.
 
-**5. Yenile:** Veri alanı ile grafiğin çalışması ve grafiğin yenilenmesini sağlar.
+**5.Yenile:** Veri alanı ile grafiğin çalışması ve grafiğin yenilenmesini sağlar.
 
 **6.Kaldır:** Görseli silmek için kullanılan alandır. “Kaldır” ikonuna tıklandığında “Bu görseli silmek istiyor musunuz?” şeklinde uyarı çıkmaktadır.
+
+**7.Başlık:** Grafiğe başlık verilen alandır.
 
 **Not:** Etkileşim grafiklerde ortak olduğundan ayrı başlıkta yer alacaktır.
 
@@ -1466,14 +1504,12 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
 **2. Kolon Eşleştirmeleri**
 
- 2.1.**Sıralama:** Kolon verisinin artan/azalan şekilde sıralamasının yapıldığı alandır.
+ 2.1. **Sıralama:** Kolon verisinin artan/azalan şekilde sıralamasının yapıldığı alandır.
 
  **Çıkış İl Plakası:** Haritada bir ilden başka ile gidiş oklarla gösterilmektedir. Çıkış il plakası okun başlangıç yerinin gösterildiği ilin plaka alanıdır.
 
 
- 2.2. **Çıkış İl Plakası:
- 
- 2.2. **Çıkış İlin Enlemi:** Haritada gösterilecek okun başlangıç ilinin enlem bilgisinin yer aldığı veri alanıdır.
+ 2.2. **Çıkış İl Plakası:** Haritada gösterilecek okun başlangıç ilinin enlem bilgisinin yer aldığı veri alanıdır.
 
  2.3. **Çıkış İlin Boylamı:** Haritada gösterilecek okun başlangıç ilinin boylam bilgisinin yer aldığı veri alanıdır.
 
@@ -1553,24 +1589,28 @@ Seçili modelde var olan tablo ve kolonların bulunduğu alandır.
 
 Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölümlere sürükle-bırak ile eklenir.
 
-1. **Ara:** Tablo ve kolonların arandığı alandır.
+ 1.1. **Ara:** Tablo ve kolonların arandığı alandır.
 
-2. **Tablo Kolon Listesi:** Seçili modelde yer alan tablo ve kolonların yer aldığı bölümdür.
+ 1.2. **Tablo Kolon Listesi:** Seçili modelde yer alan tablo ve kolonların yer aldığı bölümdür.
 
-**Kolon Eşleştirmeleri**
+**2. Kolon Eşleştirmeleri**
 
-1. **Sıralama:** Kolon verisinin artan/azalan şekilde sıralamasının yapıldığı alandır.
+ 2.1. **Sıralama:** Kolon verisinin artan/azalan şekilde sıralamasının yapıldığı alandır.
 
-2. **Değer:** Haritayı şekillendirmek için kullanılacak sayısal verinin eklendiği alandır.
+ 2.2. **Değer:** Haritayı şekillendirmek için kullanılacak sayısal verinin eklendiği alandır.
 
-3. **Şehir Kimliği:** Haritanın görselleştirileceği il kodu (plaka) bilgisinin yer aldığı alandır.
+ 2.3. **Şehir Kimliği:** Haritanın görselleştirileceği il kodu (plaka) bilgisinin yer aldığı alandır.
 
-4. **Şehir Adı:** Haritanın görselleştirileceği il adı bilgisinin yer aldığı alandır.
+ 2.4. **Şehir Adı:** Haritanın görselleştirileceği il adı bilgisinin yer aldığı alandır.
 
-5. **İlçe Kimliği:** Haritada görselleştirilen illere karşılık gelen ilçe kodu bilgisinin yer aldığı alandır.
+ 2.5. **İlçe Kimliği:** Haritada görselleştirilen illere karşılık gelen ilçe kodu bilgisinin yer aldığı alandır.
 
 
 **Türkiye Haritası Ayarlar Alanı**
+
+.. figure:: ./images/151.png
+   :alt: image
+
 
 **1. Genel Görünüm**
 
@@ -1605,6 +1645,9 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 **5. Yenile:** Veri alanı ile grafiğin çalışması ve grafiğin yenilenmesini sağlar.
 
 **6. Kaldır:** Görseli silmek için kullanılan alandır. “Kaldır” ikonuna tıklandığında “Bu görseli silmek istiyor musunuz?” şeklinde uyarı çıkmaktadır.
+
+**7.Başlık:** Haritaya başlık verilen alandır.
+
 
 **Not:** Etkileşim grafiklerde ortak olduğundan ayrı başlıkta yer alacaktır.
 
@@ -1646,7 +1689,7 @@ Dünya Haritası Ayarlar Alanı
 
 1.2. **Seçim Rengi:** Harita üzerinde seçim yapılan alan renginin seçildiği kısımdır.
 
-1.3. **Filtre Limiti:**
+1.3. **Filtre Limiti:** Filtre limitinin belirtildiği alandır.
 
 **2. Başlık Ayarları**
 
@@ -1689,6 +1732,8 @@ Dünya Haritası Ayarlar Alanı
 
 **7. Kaldır:** Görseli silmek için kullanılan alandır. “Kaldır” ikonuna tıklandığında “Bu görseli silmek istiyor musunuz?” şeklinde uyarı çıkmaktadır.
 
+**8.Başlık:** Başlığın eklendiği bölümdür.
+
 **Not:** Navigasyon grafiklerde ortak olduğundan ayrı başlıkta yer alacaktır.
 
  **Measure Tile Veri Alanı**
@@ -1721,17 +1766,17 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
 **1. Yazı Biçimlendirme**
    
-   **1. Boyut:** Measure Tile yazı boyutunun girildiği alandır.
+   **1.1. Boyut:** Measure Tile yazı boyutunun girildiği alandır.
    
-   **2. Yazı Tipi:** Measure Tile yazı font değişikliğinin yapıldığı alandır.
+   **1.2. Yazı Tipi:** Measure Tile yazı font değişikliğinin yapıldığı alandır.
    
-   **3. Renk:** Measure Tile yazı renginin değiştirilebildiği alandır.
+   **1.3. Renk:** Measure Tile yazı renginin değiştirilebildiği alandır.
 
 **2.Görsel Ekle**
 
-   **2.2.İkon:** Measure Tile’a var olan ikonlardan eklenmek istendiğinde kullanılan alandır.
+   **2.1.İkon:** Measure Tile’a var olan ikonlardan eklenmek istendiğinde kullanılan alandır.
 
-   **2.3.Resim Mi?:**  Measure Tile’a resim eklenmek istendiğinde kullanılan alandır.
+   **2.1.Resim Mi?:**  Measure Tile’a resim eklenmek istendiğinde kullanılan alandır.
 
 .. figure:: ./images/73.png
    :alt: image
@@ -1774,6 +1819,8 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
 **5. Kaldır:** Görseli silmek için kullanılan alandır. “Kaldır” ikonuna tıklandığında “Bu görseli silmek istiyor musunuz?” şeklinde uyarı çıkmaktadır.
 
+**6. Başlık:** Başlığın verildiği bölümdür.
+
 **Bayrak Veri Alanı**
 
 .. figure:: ./images/75.png
@@ -1785,15 +1832,15 @@ Seçili modelde var olan tablo ve kolonların bulunduğu alandır.
 
 Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölümlere sürükle-bırak ile eklenir.
 
-   1. **Ara:** Tablo ve kolonların arandığı alandır.
+ 1.1. **Ara:** Tablo ve kolonların arandığı alandır.
 
-   2. **Tablo Kolon Listesi:** Seçili modelde yer alan tablo ve kolonların yer aldığı bölümdür.
+ 1.2. **Tablo Kolon Listesi:** Seçili modelde yer alan tablo ve kolonların yer aldığı bölümdür.
 
 **Kolon Eşleştirmeleri**
 
-   1. **Sıralama:** Kolon verisinin artan/azalan şekilde sıralamasının yapıldığı alandır.
+ 2.1. **Sıralama:** Kolon verisinin artan/azalan şekilde sıralamasının yapıldığı alandır.
 
-   2. **Ülke ID:** Grafiği şekillenmesi için ülke kodlarının eklendiği alandır. Eklenen ülke kodunun bayrağı görüntülenmektedir.
+ 2.2. **Ülke ID:** Grafiği şekillenmesi için ülke kodlarının eklendiği alandır. Eklenen ülke kodunun bayrağı görüntülenmektedir.
 
  **Bayrak Ayarlar Alanı**
 
@@ -1802,11 +1849,11 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
 **1. Diğer**
 
-   1. **Başlık:** Grafiğe başlık verilen alandır.
+ 1.1. **Başlık:** Grafiğe başlık verilen alandır.
    
-   2. **Başlık Hizası:** Grafik başlığının sağ/orta/sol hizalamasının seçildiği alandır.
+ 1.2. **Başlık Hizası:** Grafik başlığının sağ/orta/sol hizalamasının seçildiği alandır.
    
-   3. **Başlık Yazı Stilleri:** Grafik başlığının kalın/italik/altı çizili olmasının belirlendiği kısımdır.
+ 1.3. **Başlık Yazı Stilleri:** Grafik başlığının kalın/italik/altı çizili olmasının belirlendiği kısımdır.
 
 4.3.1.19.I-Frame
 ================
@@ -1910,27 +1957,27 @@ I-Frame veri alanı bulunmamaktadır.
 
 **1. Başlık Ayarları**
 
-  2.1. **Başlık:** Grafiğin başlığının belirtildiği alandır.
+ 1.1. **Başlık:** Grafiğin başlığının belirtildiği alandır.
 
-  2.2. **Başlık Hizası:** Başlık orta, sağ veya sol olmak üzere istenen şekilde hizalama yapılabilir.
+ 1.2. **Başlık Hizası:** Başlık orta, sağ veya sol olmak üzere istenen şekilde hizalama yapılabilir.
 
-  2.3. **Başlık Yazı Stilleri:** Başlığın yazı stili seçilebilmektedir.
+ 1.3. **Başlık Yazı Stilleri:** Başlığın yazı stili seçilebilmektedir.
 
-  2.4. **Başlık Yazı Tipi:** Bu alanda başlığın yazı tipi belirlenebilmektedir. 
+ 1.4. **Başlık Yazı Tipi:** Bu alanda başlığın yazı tipi belirlenebilmektedir. 
 
-  2.5. **Başlık Font Boyutu:** Başlıkğın font boyutu burada seçilmektedir.
+ 1.5. **Başlık Font Boyutu:** Başlıkğın font boyutu burada seçilmektedir.
 
-  2.6. **Başlık Font Rengi:** Font renk seçime imkanı sunar.
+ 1.6. **Başlık Font Rengi:** Font renk seçime imkanı sunar.
 
-  2.7. **Başlık Özelliklerini Rapordaki Diğer Pluginlere Uygulama Alanı:** Başlığa dair yapılmış olan tüm düzenlemeleri raporda bulunan diğer plugin başlıklarına uygulanmasını sağlamaktadır.
+ 1.7. **Başlık Özelliklerini Rapordaki Diğer Pluginlere Uygulama Alanı:** Başlığa dair yapılmış olan tüm düzenlemeleri raporda bulunan diğer plugin başlıklarına uygulanmasını sağlamaktadır.
    
 
 
  **2.Genel Görünüm**
 
-   **1.4. Arka Plan Rengi:** Grafiğe arka plan rengi verilen alandır. Paletten arka plan rengi seçilebilmektedir.
+ 1.4. **Arka Plan Rengi:** Grafiğe arka plan rengi verilen alandır. Paletten arka plan rengi seçilebilmektedir.
 
-   **1.6. Link Alanı:** Başlık grafiği üzerine tıklandığında gidilecek sayfanın link bilgisinin yer aldığı kısımdır.
+ 1.6. **Link Alanı:** Başlık grafiği üzerine tıklandığında gidilecek sayfanın link bilgisinin yer aldığı kısımdır.
 
 
 
@@ -1955,6 +2002,8 @@ I-Frame veri alanı bulunmamaktadır.
 **7. Yenile:** Veri alanı ile grafiğin çalışması ve grafiğin yenilenmesini sağlar.
 
 **8. Kaldır:** Görseli silmek için kullanılan alandır. “Kaldır” ikonuna tıklandığında “Bu görseli silmek istiyor musunuz?” şeklinde uyarı çıkmaktadır.
+
+**9. Başlık:** Başlık eklenen bölümdür.
 
 **Not:** Koşulsal Formatlama, Etkileşim ve Navigasyon grafiklerde ortak olduğundan ayrı başlıkta yer alacaktır.
 
@@ -1982,7 +2031,7 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
  2.3. **Ölçü Değeri:** Grafiği şekillendirmek için kullanılacak sayısal verinin eklendiği alandır.
 
-2.4. **Saklı:** 
+ 2.4. **Saklı:** 
 
 **Pasta Grafiği Ayarlar Alanı**
 
@@ -1991,13 +2040,13 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
 **1. Genel Görünüm**
 
- 1.1. **Üç Boyutlu Görünüm:**
+ 1.1. **Üç Boyutlu Görünüm:** Grafiği üç boyutlu biçimde sunar.
 
- 1.2. **Ölçüm Değerlerine Göre Pie'ı Boyutlandır:**
+ 1.2. **Ölçüm Değerlerine Göre Pie'ı Boyutlandır:** Ölçüme göre grafiğe boyut kazandırır.
 
  1.3. **İç Yarıçap:** Grafikte merkezden (iç yarıçap) itibariyle ne kadar boş olacağının belirlendiği kısımdır. 
  
- 1.4. **Palet**
+ 1.4. **Palet:** Grafiği istenen şekilde renklendirme imkanı sağlar.
 
  1.5. **Arka Plan Rengi:** Grafiğe arka plan rengi verilen alandır. Paletten arka plan rengi seçilebilmektedir.
 
@@ -2010,19 +2059,20 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
  2.2. **Koşulsal Formatlamayı Göster:**
 
 
- **3. Gelişmiş Legend Konfigürasyonu:**
+ **3. Gelişmiş Legend Konfigürasyonu**
 
-  3.1. **Ölçüm Gösterimi:**
+  3.1. **Ölçüm Gösterimi:** Ölçüm yüzdesel, sayısal ve her ikisi şeklinde gösterme seçeneği sunar.
 
-  3.2. **Göstergeleri Göster:**
+  3.2. **Göstergeleri Göster:** Gösterge gizelenebilir ya da görünür şekilde ayarlandığı alandır.
 
-  3.3. **Legend Pozisyonu:**
+  3.3. **Legend Pozisyonu:** Gösterge sağ, sol, üst ya da altta olabilcek şekilde ayarlanabilir.
 
-**4. Gelişmiş Ölçüm Konfigürasyonu:**
 
-  4.1. **Ölçümleri Göster:**
+**4. Gelişmiş Ölçüm Konfigürasyonu**
 
-  4.2. **Ölçümleri Gösterme Tipi:**
+  4.1. **Ölçümleri Göster:** Ölçümün görünürüp görünmeyeceğinin seçildiği alandır.
+
+  4.2. **Ölçümleri Gösterme Tipi:** Ölçümün ne şekilde gösterileceğinin belirlendiği alandır. Oklar yardımıyla ya da grafik üzerinde gösterme seçeneği mevcuttur.
 
 **5. Başlık Ayarları**
 
@@ -2044,7 +2094,7 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 4.3.1.23.Radyal İlerleme
 ========================
 
-.. figure:: ./images/86.png
+.. figure:: ./images/152.png
    :alt: image
 
 
@@ -2058,6 +2108,7 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
 **5. Kaldır:** Görseli silmek için kullanılan alandır. “Kaldır” ikonuna tıklandığında “Bu görseli silmek istiyor musunuz?” şeklinde uyarı çıkmaktadır.
 
+**6.Başlık:** Başlık verilen alandır.
 
 
 **Radyal İlerleme Grafiği Veri Alanı**
@@ -2081,9 +2132,9 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
  2.2. **Ölçü Değeri:** Grafiği şekillendirmek için kullanılacak sayısal verinin eklendiği alandır.
 
-2.3. **Hedef:** Grafikte hedef olarak gösterilen sayısal alandır. Grafiğin şekillendirilmesi için ölçü değerinden büyük sayısal değerdir. 
+ 2.3. **Hedef:** Grafikte hedef olarak gösterilen sayısal alandır. Grafiğin şekillendirilmesi için ölçü değerinden büyük sayısal değerdir. 
 
-2.4. **Saklı Alan:** Grafikte gösterilmeyen default filtrede, formülde kullanılmak üzere verinin eklendiği alandır.
+ 2.4. **Saklı Alan:** Grafikte gösterilmeyen default filtrede, formülde kullanılmak üzere verinin eklendiği alandır.
 
 **Radyal İlerleme Grafiği Ayarlar Alanı**
 
@@ -2092,13 +2143,13 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
 **1. Yazı Biçimlendirme**
 
-   1.1. **Yazı Tipi:** Grafik yazı font değişikliğinin yapıldığı alandır.
+ 1.1. **Yazı Tipi:** Grafik yazı font değişikliğinin yapıldığı alandır.
 
-   1.2. **Başlık:** Grafiğe başlık verilen alandır.
+ 1.2. **Başlık:** Grafiğe başlık verilen alandır.
 
-   1.3. **Başlık Hizası:** Grafik başlığının sağ/orta/sol hizalamasının seçildiği alandır.
+ 1.3. **Başlık Hizası:** Grafik başlığının sağ/orta/sol hizalamasının seçildiği alandır.
 
-   1.4. **Başlık Yazı Stilleri:** Grafik başlığının kalın/italik/altı çizili olmasının belirlendiği kısımdır.
+ 1.4. **Başlık Yazı Stilleri:** Grafik başlığının kalın/italik/altı çizili olmasının belirlendiği kısımdır.
 
 **2. Genel Görünüm**
 
@@ -2112,19 +2163,19 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
 **3. Başlık Ayarları**
 
-  3.1. **Başlık:** Grafiğin başlığının belirtildiği alandır.
+ 3.1. **Başlık:** Grafiğin başlığının belirtildiği alandır.
 
-  3.2. **Başlık Hizası:** Başlık orta, sağ veya sol olmak üzere istenen şekilde hizalama yapılabilir.
+ 3.2. **Başlık Hizası:** Başlık orta, sağ veya sol olmak üzere istenen şekilde hizalama yapılabilir.
 
-  3.3. **Başlık Yazı Stilleri:** Başlığın yazı stili seçilebilmektedir.
+ 3.3. **Başlık Yazı Stilleri:** Başlığın yazı stili seçilebilmektedir.
 
-  3.4. **Başlık Yazı Tipi:** Bu alanda başlığın yazı tipi belirlenebilmektedir. 
+ 3.4. **Başlık Yazı Tipi:** Bu alanda başlığın yazı tipi belirlenebilmektedir. 
 
-  3.5. **Başlık Font Boyutu:** Başlıkğın font boyutu burada seçilmektedir.
+ 3.5. **Başlık Font Boyutu:** Başlıkğın font boyutu burada seçilmektedir.
 
-  3.6. **Başlık Font Rengi:** Font renk seçime imkanı sunar.
+ 3.6. **Başlık Font Rengi:** Font renk seçime imkanı sunar.
 
-  3.7. **Başlık Özelliklerini Rapordaki Diğer Pluginlere Uygulama Alanı:** Başlığa dair yapılmış olan tüm düzenlemeleri raporda bulunan diğer plugin başlıklarına uygulanmasını sağlamaktadır.
+ 3.7. **Başlık Özelliklerini Rapordaki Diğer Pluginlere Uygulama Alanı:** Başlığa dair yapılmış olan tüm düzenlemeleri raporda bulunan diğer plugin başlıklarına uygulanmasını sağlamaktadır.
 
 
 
@@ -2157,6 +2208,8 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 **7. Yenile:** Veri alanı ile grafiğin çalışması ve grafiğin yenilenmesini sağlar.
 
 **8. Kaldır:** Görseli silmek için kullanılan alandır. “Kaldır” ikonuna tıklandığında “Bu görseli silmek istiyor musunuz?” şeklinde uyarı çıkmaktadır.
+
+**9.Başlık:** Başlığın verildiği alandır.
 
 **Not:** Koşulsal Formatlama, Etkileşim ve Navigasyon grafiklerde ortak olduğundan ayrı başlıkta yer alacaktır.
 
@@ -2192,30 +2245,30 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
 **1. Genel Görünüm**
 
-  1.1. **Arka Plan Rengi:** Grafiğe arka plan rengi verilen alandır. Paletten arka plan rengi seçilebilmektedir.
+ 1.1. **Arka Plan Rengi:** Grafiğe arka plan rengi verilen alandır. Paletten arka plan rengi seçilebilmektedir.
 
-  2.2. **Palet**
+ 1.2. **Palet**
 
-      1.2.1. **Tema:** Grafik ön tanımlı temalar seçilerek görselleştirilir.
+   1.2.1. **Tema:** Grafik ön tanımlı temalar seçilerek görselleştirilir.
 
-      1.2.2. **Palet:** Grafik paletten seçilen renklere göre görselleştirilir.
+   1.2.2. **Palet:** Grafik paletten seçilen renklere göre görselleştirilir.
 
 **2. Başlık Ayarları**
 
 
-  2.1. **Başlık:** Grafiğin başlığının belirtildiği alandır.
+ 2.1. **Başlık:** Grafiğin başlığının belirtildiği alandır.
 
-  2.2. **Başlık Hizası:** Başlık orta, sağ veya sol olmak üzere istenen şekilde hizalama yapılabilir.
+ 2.2. **Başlık Hizası:** Başlık orta, sağ veya sol olmak üzere istenen şekilde hizalama yapılabilir.
 
-  2.3. **Başlık Yazı Stilleri:** Başlığın yazı stili seçilebilmektedir.
+ 2.3. **Başlık Yazı Stilleri:** Başlığın yazı stili seçilebilmektedir.
 
-  2.4. **Başlık Yazı Tipi:** Bu alanda başlığın yazı tipi belirlenebilmektedir. 
+ 2.4. **Başlık Yazı Tipi:** Bu alanda başlığın yazı tipi belirlenebilmektedir. 
 
-  2.5. **Başlık Font Boyutu:** Başlıkğın font boyutu burada seçilmektedir.
+ 2.5. **Başlık Font Boyutu:** Başlıkğın font boyutu burada seçilmektedir.
 
-  2.6. **Başlık Font Rengi:** Font renk seçime imkanı sunar.
+ 2.6. **Başlık Font Rengi:** Font renk seçime imkanı sunar.
 
-  2.7. **Başlık Özelliklerini Rapordaki Diğer Pluginlere Uygulama Alanı:** Başlığa dair yapılmış olan tüm düzenlemeleri raporda bulunan diğer plugin başlıklarına uygulanmasını sağlamaktadır.
+ 2.7. **Başlık Özelliklerini Rapordaki Diğer Pluginlere Uygulama Alanı:** Başlığa dair yapılmış olan tüm düzenlemeleri raporda bulunan diğer plugin başlıklarına uygulanmasını sağlamaktadır.
 
 
 
@@ -2241,6 +2294,8 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 **4. Yenile:** Veri alanı ile grafiğin çalışması ve grafiğin yenilenmesini sağlar.
 
 **5. Kaldır:** Görseli silmek için kullanılan alandır. “Kaldır” ikonuna tıklandığında “Bu görseli silmek istiyor musunuz?” şeklinde uyarı çıkmaktadır.
+
+**6.Başlık:** Başlığın verildiği alandır.
 
 
 **Sıvı Ölçek Grafiği Veri Alanı**
@@ -2280,13 +2335,13 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
    **1.2. Yazı Pozisyonu (Dikey):** Grafik üzerinde sayısal değer gösterilmektedir. Sayısal değerin grafik üzerinde dikey olarak nerede gösterileceğinin belirlendiği alandır. 
 
-   **1.3. Minimum Değer:** 
+   **1.3. Minimum Değer:** Minimum değerin yazıldığı alandır.
 
-   **1.4. Dalga Yüksekliği:** 
+   **1.4. Dalga Yüksekliği:** Dalga yüksekliğinin belirlendiği bölümdür.
 
    **1.5. Çember Doldurma Boşluğu:** Grafikte çember ile dalga arasındaki boşluk boyutunun girildiği alandır.
 
-   **1.6. Dalga Sayısı:** 
+   **1.6. Dalga Sayısı:** Dalga sayısı bu alanda belirtilir.
 
 
 **2. Başlık Ayarları**
@@ -2339,6 +2394,7 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
 **5. Kaldır:** Görseli silmek için kullanılan alandır. “Kaldır” ikonuna tıklandığında “Bu görseli silmek istiyor musunuz?” şeklinde uyarı çıkmaktadır.
 
+**6.Başlık:** Başlığın verildiği alandır.
 
 **Radar Grafiği Veri Alanı**
 
@@ -2440,6 +2496,8 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
 **8. Kaldır:** Görseli silmek için kullanılan alandır. “Kaldır” ikonuna tıklandığında “Bu görseli silmek istiyor musunuz?” şeklinde uyarı çıkmaktadır.
 
+**9.Başlık:** Başlığın verildiği alandır.
+
 **Not:** Koşulsal Formatlama, Etkileşim ve Navigasyon grafiklerde ortak olduğundan ayrı başlıkta yer alacaktır.
 
 **Pivot Tablo Grafiği Veri Alanı**
@@ -2527,19 +2585,13 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
 **5.Diğer**
 
-5.1. **Başlık:** Grafiğe başlık verilen alandır.
+5.1. **Toplamları Seç:** Toplam sadece sütunda veya satırda verilebilir. Ya da ikisi birden verilebilir.
 
-5.2. **Başlık Hizası:** Grafik başlığının sağ/orta/sol hizalamasının seçildiği alandır.
+5.2. **Görselleştirme Tipi:** Görselleştirme tipi toblo ya da çubuk garfiği şeklinde seçilebilir.
 
-5.3. **Başlık Yazı Stilleri:** Grafik başlığının kalın/italik/altı çizili olmasının belirlendiği kısımdır.
+5.3. **Tema Rengi:** Tema renginin seçildiği alandır.
 
-5.4. **Toplamları Seç:** Satır toplamı/sütun toplamı/Satır ve Sütun toplamı bilgilerinin grafikte gösterileceği seçmeli alandır.
-
-5.5. **Görselleştirme Tipi:** Pivot Tablo görselleştirilirken tablo şeklinde ya da Tablo Çubuk Grafiği ile grafik değerlerine göre çubukların oluşacağı seçiminin yapıldığı alandır.
-
-5.6. **Tema Rengi:** Grafik genel görünümde yapılacak renk değişikliği alanıdır.
-
-5.7. **Pivot Tablo Açıklama:** Grafiğe açıklama/bilgi amaçlı yazılacak notların eklendiği alandır.  
+5.4. **Pivot Table Açıklama:** Tabloya açıklama eklenen alandır.
 
 
 4.3.1.28. Tablo
@@ -2563,6 +2615,8 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 **7. Yenile:** Veri alanı ile grafiğin çalışması ve grafiğin yenilenmesini sağlar.
 
 **8. Kaldır:** Görseli silmek için kullanılan alandır. “Kaldır” ikonuna tıklandığında “Bu görseli silmek istiyor musunuz?” şeklinde uyarı çıkmaktadır.
+
+**9. Başlık:** Başlık eklenen alandır.
 
 **Not:** Koşulsal Formatlama, Etkileşim ve Navigasyon grafiklerde ortak olduğundan ayrı başlıkta yer alacaktır.
 
@@ -2656,13 +2710,13 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
    5.6. **Resimli Link Alanı:** Resim verisi bulunan kolon isminin yazıldığı kısımdır. Bu alana resim olarak yer alan kolon ismi yazıldığında, tablo grafiğinde resimler gösterilmektedir.
 
-   5.6. **Resim Satır Genişliği:** Tablo grafiğinde yer alması istenen resmin tablodaki satır genişliği bilgisinin girildiği alandır.
+   5.7. **Resim Satır Genişliği:** Tablo grafiğinde yer alması istenen resmin tablodaki satır genişliği bilgisinin girildiği alandır.
 
 
 4.3.1.29. Ağaç Haritası
 ========================
 
-.. figure:: ./images/144.png
+.. figure:: ./images/153.png
    :alt: image
 
 1. **Araçları Aç/Kapat:** Görsel ile ilgili düzenleme yapılan ikonların açıp kapatıldığı ikondur.
@@ -2681,6 +2735,8 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
    
 8. **Kaldır:** Görseli silmek için kullanılan alandır. “Kaldır” ikonuna tıklandığında “Bu görseli silmek istiyor musunuz?” şeklinde uyarı çıkmaktadır.
    
+9. **Başlık:** Başlığın eklendiği alandır.
+
 **Not:** Koşulsal Formatlama, Etkileşim ve Navigasyon grafiklerde ortak olduğundan ayrı başlıkta yer alacaktır.
 
 **Ağaç Harita Grafiği Veri Alanı**
@@ -2694,7 +2750,7 @@ Seçili modelde var olan tablo ve kolonların bulunduğu alandır.
 
 Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölümlere sürükle-bırak ile eklenir.
 
-1.1. **Ara:** Tablo ve kolonların arandığı alandır.
+ 1.1. **Ara:** Tablo ve kolonların arandığı alandır.
  1.2. **Tablo Kolon Listesi:** Seçili modelde yer alan tablo ve kolonların yer aldığı bölümdür.
 
 **2. Kolon Eşleştirmeleri**
@@ -2743,13 +2799,9 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
 **3. Diğer**
 
-3.1. **Başlık:** Grafiğe başlık verilen alandır.
+3.1. **Koşulsal Formatlamayı Göster:** Koşulsal formatlama varsa ve bu kısım seçildiyse koşullar grafikte gösterilir.
 
-3.2. **Başlık Hizası:** Grafik başlığının sağ/orta/sol hizalamasının seçildiği alandır.
 
-3.3. **Başlık Yazı Stilleri:** Grafik başlığının kalın/italik/altı çizili olmasının belirlendiği kısımdır.
-
-3.4. **Koşulsal Formatlamayı Göster:** Koşulsal formatlama varsa ve bu kısım seçildiyse koşullar grafikte gösterilir.
 
 
 4.3.1.30. Kelime Bulutu
@@ -2769,6 +2821,8 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 **5. Yenile:** Veri alanı ile grafiğin çalışması ve grafiğin yenilenmesini sağlar.
 
 **6. Kaldır:** Görseli silmek için kullanılan alandır. “Kaldır” ikonuna tıklandığında “Bu görseli silmek istiyor musunuz?” şeklinde uyarı çıkmaktadır.
+
+**7.Başlık:** Başlığın verildiği alandır.
 
 **Not:** Etkileşim grafiklerde ortak olduğundan ayrı başlıkta yer alacaktır.
 
@@ -2794,30 +2848,10 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
  2.2. **Word:** Kolonda bulunan 
 
-  **Ağaç Harita Grafiği Ayarlar Alanı**
+ 2.3.
 
-.. figure:: ./images/108.png
-   :alt: image
 
-**3. Genel Görünüm**
-
- 3.1. **Arka Plan Rengi:** Grafiğe arka plan rengi verilen alandır. Paletten arka plan rengi seçilebilmektedir.
-
- 3.2. **Palet:** Grafik paletten seçilen renklere göre görselleştirilir.
-
- 3.3. **Font Boyutu:** Grafik yazı boyutunun girildiği alandır.
-
- 3.4. **Yuvarlatılmış Köşeler:** Grafik köşelerinin kenar seçiminin yuvarlak olma durumunun seçildiği alandır.
-
-**4. Diğer**
-
- 4.1. **Başlık:** Grafiğe başlık verilen alandır.
-
- 4.2. **Başlık Hizası:** Grafik başlığının sağ/orta/sol hizalamasının seçildiği alandır.
-
- 4.3. **Başlık Yazı Stilleri:** Grafik başlığının kalın/italik/altı çizili olmasının belirlendiği kısımdır.
-
- 4.4. **Koşulsal Formatlamayı Göster:** Koşulsal formatlama varsa ve bu kısım seçildiyse koşullar grafikte gösterilir.
+  
 
 4.3.1.31. Özel
 ===============
