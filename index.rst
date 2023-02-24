@@ -294,8 +294,7 @@ alandır.
 
 **3.Bilgi:** Kolon bilgisi alanıdır.
    
-**4.Adını Değiştir:** Kolonun görünür isminin değiştirildiği kısımdır.
- “Kaydet” butonuna tıklanarak yapılan değişiklikler kaydedilir.
+**4.Adını Değiştir:** Kolonun görünür isminin değiştirildiği kısımdır.“Kaydet” butonuna tıklanarak yapılan değişiklikler kaydedilir.
 
 4.3. **Rapor Oluşturma**
 =========================
@@ -421,12 +420,9 @@ ayarlandığı alandır.
   
   3.2. **Y Eksen Başlığı:** Grafiğin dikey alandaki başlığın düzenlendiği alandır. 
   
-  3.3. **Doğrusal Regresyon:** Grafikteki doğrusal
-çizginin eklenip eklenmeme durumu belirlenir.
+  3.3. **Doğrusal Regresyon:** Grafikteki doğrusal çizginin eklenip eklenmeme durumu belirlenir.
 
-  3.4. **Doğrusal Regresyon:** Grafikteki doğrusal çizginin eklenip eklenmeme durumu belirlenir.
-
-  3.5. **Sürükleyerek Seçim:** Grafik üzerindeki birden fazla noktanın alan olarak seçilme
+  3.4. **Sürükleyerek Seçim:** Grafik üzerindeki birden fazla noktanın alan olarak seçilme
 durumu belirlenir.
 
 4.3.1.2.Chord Diagram
@@ -1509,9 +1505,6 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
  2.1. **Sıralama:** Kolon verisinin artan/azalan şekilde sıralamasının yapıldığı alandır.
 
- **Çıkış İl Plakası:** Haritada bir ilden başka ile gidiş oklarla gösterilmektedir. Çıkış il plakası okun başlangıç yerinin gösterildiği ilin plaka alanıdır.
-
-
  2.2. **Çıkış İl Plakası:** Haritada gösterilecek okun başlangıç ilinin enlem bilgisinin yer aldığı veri alanıdır.
 
  2.3. **Çıkış İlin Enlemi:** Haritada gösterilecek okun başlangıç ilinin enlem bilgisinin yer aldığı veri alanıdır.
@@ -1577,7 +1570,7 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
 **6. Kaldır:** Görseli silmek için kullanılan alandır. “Kaldır” ikonuna tıklandığında “Bu görseli silmek istiyor musunuz?” şeklinde uyarı çıkmaktadır.
 
-**7. Başlık Alanu:** Haritanın isimlendirildiği alandır.
+**7. Başlık Alanı:** Haritanın isimlendirildiği alandır.
 
 **Not:** Etkileşim grafiklerde ortak olduğundan ayrı başlıkta yer alacaktır.
 
@@ -2445,27 +2438,27 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
 **Radar Grafiği Ayarlar Alanı**
 
-.. figure:: ./images/141.png
+.. figure:: ./images/154.png
    :alt: image
 
 
 **1. Genel Görünüm**
 
-1.2. **Boyut:** Grafik boyutunun ayarlandığı alandır.
+1.1. **Boyut:** Grafik boyutunun ayarlandığı alandır.
 
-1.3. **Seviyeler:** Grafikte gösterilen yuvarlak çizgi (seviye) sayısının kaç tane olacağının belirlendiği alandır. 
+1.2. **Seviyeler:** Grafikte gösterilen yuvarlak çizgi (seviye) sayısının kaç tane olacağının belirlendiği alandır. 
 
-1.4. **Nokta Boyutu:** Grafik üzerinde gösterilen değerin eksen ile birleştiği yerdeki nokta boyutunun belirlendiği alandır.
+1.3. **Nokta Boyutu:** Grafik üzerinde gösterilen değerin eksen ile birleştiği yerdeki nokta boyutunun belirlendiği alandır.
 
-1.5. **Opaklığı Doldur:** Grafik içinde yer alan bölgenin saydamlık değerinin girildiği alandır.
+1.4. **Opaklığı Doldur:** Grafik içinde yer alan bölgenin saydamlık değerinin girildiği alandır.
 
-1.6. **Dış Çizgi Opaklığı:** Grafik dış çizgisinin saydamlık değerinin girildiği alandır.
+1.5. **Dış Çizgi Opaklığı:** Grafik dış çizgisinin saydamlık değerinin girildiği alandır.
 
-1.7. **Palet**
+1.6. **Palet**
 
-   1.7.1. **Tema:** Grafik ön tanımlı temalar seçilerek görselleştirilir.
+   1.6.1. **Tema:** Grafik ön tanımlı temalar seçilerek görselleştirilir.
 
-   1.7.2. **Palet:** Grafik paletten seçilen renklere göre görselleştirilir.
+   1.6.2. **Palet:** Grafik paletten seçilen renklere göre görselleştirilir.
 
 
 **2. Başlık Ayarları**
