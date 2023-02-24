@@ -292,9 +292,9 @@ alandır.
 
 
 
-**1. Bilgi:** Kolon bilgisi alanıdır.
+**3.Bilgi:** Kolon bilgisi alanıdır.
    
-**2. Adını Değiştir:** Kolonun görünür isminin değiştirildiği kısımdır.
+**4.Adını Değiştir:** Kolonun görünür isminin değiştirildiği kısımdır.
  “Kaydet” butonuna tıklanarak yapılan değişiklikler kaydedilir.
 
 4.3. **Rapor Oluşturma**
@@ -395,7 +395,7 @@ ayarlandığı alandır.
 
 **2. Başlık ayarları**
 
-  1.1. **Başlık:** Grafiğin başlığının belirtildiği alandır.
+  2.1. **Başlık:** Grafiğin başlığının belirtildiği alandır.
 
   2.2. **Başlık Hizası:** Başlık orta, sağ veya sol olmak üzere istenen şekilde hizalama yapılabilir.
 
@@ -419,12 +419,14 @@ ayarlandığı alandır.
 
   3.1. **X Eksen Başlığı:** Grafiğin yatay alandaki başlığın düzenlendiği alandır.
   
-  3.2. **Y Eksen Başlığı:** Grafiğin dikey alandaki başlığın düzenlendiği alandır. 2.6. **Doğrusal Regresyon:** Grafikteki doğrusal
+  3.2. **Y Eksen Başlığı:** Grafiğin dikey alandaki başlığın düzenlendiği alandır. 
+  
+  3.3. **Doğrusal Regresyon:** Grafikteki doğrusal
 çizginin eklenip eklenmeme durumu belirlenir.
 
-  3.3. **Doğrusal Regresyon:** Grafikteki doğrusal çizginin eklenip eklenmeme durumu belirlenir.
+  3.4. **Doğrusal Regresyon:** Grafikteki doğrusal çizginin eklenip eklenmeme durumu belirlenir.
 
-  3.4. **Sürükleyerek Seçim:** Grafik üzerindeki birden fazla noktanın alan olarak seçilme
+  3.5. **Sürükleyerek Seçim:** Grafik üzerindeki birden fazla noktanın alan olarak seçilme
 durumu belirlenir.
 
 4.3.1.2.Chord Diagram
@@ -774,6 +776,7 @@ Seçili modelde var olan tablo ve kolonların bulunduğu alandır.
 Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölümlere sürükle-bırak ile eklenir.
 
 1.1. **Ara:** Tablo ve kolonların arandığı alandır.
+
 1.2. **Tablo Kolon Listesi:** Seçili modelde yer alan tablo ve kolonların yer aldığı bölümdür.
 
 **2. Kolon Eşleştirmeleri**
@@ -856,7 +859,7 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
 6. **Kaldır:** Görseli silmek için kullanılan alandır. “Kaldır” ikonuna tıklandığında “Bu görseli silmek istiyor musunuz?” şeklinde uyarı çıkmaktadır.
 
-7. **Başlık:**Grafiğe başlık verilen alandır.
+7. **Başlık:** Grafiğe başlık verilen alandır.
    
 **Not:** Etkileşim alanı grafiklerde ortak olduğundan ayrı başlıkta yer alacaktır.
 
@@ -889,15 +892,15 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
  **1. Genel Görünüm**
 
 
- 1.1. **Arka Plan Rengi:** Grafiğe arka plan rengi verilen alandır. Paletten arka plan rengi seçilebilmektedir.
+  1.1. **Arka Plan Rengi:** Grafiğe arka plan rengi verilen alandır. Paletten arka plan rengi seçilebilmektedir.
 
- 1.2. **Ok Rengi:** Grafik eksenini tekli/çoklu/yığın şekilde görmek için seçilen alandır.
+  1.2. **Ok Rengi:** Grafik eksenini tekli/çoklu/yığın şekilde görmek için seçilen alandır.
 
- 1.3. **Metin Arka Plan Rengi:** Grafikte bu seçim yapıldıysa oluşan çizgi grafikte değerler görüntülenir.
+  1.3. **Metin Arka Plan Rengi:** Grafikte bu seçim yapıldıysa oluşan çizgi grafikte değerler görüntülenir.
 
- 1.4. **Filtre Seçilmeden Önce Görünecek Değer:** Grafikte bu seçim yapıldıysa oluşan çubuk (bar) grafikte değerler görüntülenir.
+  1.4. **Filtre Seçilmeden Önce Görünecek Değer:** Grafikte bu seçim yapıldıysa oluşan çubuk (bar) grafikte değerler görüntülenir.
 
- 1.5. **Yer Tutucu Rengi:** Grafikte bu seçim yapıldıysa çizgi değerleri, oluşturulan grafikteki çizgi renkleri ile aynı olacak şekilde ayarlanır.
+   1.5. **Yer Tutucu Rengi:** Grafikte bu seçim yapıldıysa çizgi değerleri, oluşturulan grafikteki çizgi renkleri ile aynı olacak şekilde ayarlanır.
 
 **2. Başlık Ayarları**
 
@@ -1162,27 +1165,27 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
 **1. Genel Görünüm**
 
-1.1. **Palet:** Haritada yer alan bubble’lar paletten seçilen renklere göre görselleştirilir. 
+ 1.1. **Palet:** Haritada yer alan bubble’lar paletten seçilen renklere göre görselleştirilir. 
 
-1.2. **En Küçük Bubble Yarıçapı:** Haritada yer alan en küçük değere sahip bubble için belirlenen boyuttur.
+ 1.2. **En Küçük Bubble Yarıçapı:** Haritada yer alan en küçük değere sahip bubble için belirlenen boyuttur.
 
-1.3. **En Büyük Bubble Yarıçapı:** Haritada yer alan en büyük değere sahip bubble için belirlenen boyuttur.
+ 1.3. **En Büyük Bubble Yarıçapı:** Haritada yer alan en büyük değere sahip bubble için belirlenen boyuttur.
 
-1.4. **Çizgi Kalınlığı:** Haritada yer alan bubble’ın dış çizgisinin kalınlığının belirlendiği kısımdır.
+ 1.4. **Çizgi Kalınlığı:** Haritada yer alan bubble’ın dış çizgisinin kalınlığının belirlendiği kısımdır.
 
-1.5. **Opaklık:** Haritada yer alan bubble’ların saydamlığının belirlendiği kısımdır.
+ 1.5. **Opaklık:** Haritada yer alan bubble’ların saydamlığının belirlendiği kısımdır.
 
 **2. Harita Döşeme**
 
-2.1. **Harita Döşeme:** Harita görünümü ile ilgili seçimin yapıldığı kısımdır.
+ 2.1. **Harita Döşeme:** Harita görünümü ile ilgili seçimin yapıldığı kısımdır.
 
-2.2. **Harita Altlığı Seçimi:** Haritada altlık olarak kullanılacak harita altlığını seçebilmeyi sağlar.
+ 2.2. **Harita Altlığı Seçimi:** Haritada altlık olarak kullanılacak harita altlığını seçebilmeyi sağlar.
 
-2.3. **Yakın Noktaları Ayırt Et:** Haritada yer alan değere göre büyük bubble içinde kalan küçük bubble’ların ayırt edilebilmesini sağlar.
+ 2.3. **Yakın Noktaları Ayırt Et:** Haritada yer alan değere göre büyük bubble içinde kalan küçük bubble’ların ayırt edilebilmesini sağlar.
 
-2.4. **Göstergeleri Göster:** Haritada bu seçim yapıldıysa göstergeler grafikte yer alır.
+ 2.4. **Göstergeleri Göster:** Haritada bu seçim yapıldıysa göstergeler grafikte yer alır.
 
-2.5. **Gösterge Konumu:** Haritada yer alan göstergenin konumunu belirlemeyi sağlar.
+ 2.5. **Gösterge Konumu:** Haritada yer alan göstergenin konumunu belirlemeyi sağlar.
 
 **3. Başlık Ayarları**
 
@@ -1345,19 +1348,19 @@ Seçili modelde var olan tablo ve kolonların bulunduğu alandır.
 
 Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölümlere sürükle-bırak ile eklenir.
 
-1.1. **Ara:** Tablo ve kolonların arandığı alandır.
+ 1.1. **Ara:** Tablo ve kolonların arandığı alandır.
 
-1.2. **Tablo Kolon Listesi:** Seçili modelde yer alan tablo ve kolonların yer aldığı bölümdür.
+ 1.2. **Tablo Kolon Listesi:** Seçili modelde yer alan tablo ve kolonların yer aldığı bölümdür.
 
 **2. Kolon Eşleştirmeleri**
 
-2.1. **Sıralama:** Kolon verisinin artan/azalan şekilde sıralamasının yapıldığı alandır.
+ 2.1. **Sıralama:** Kolon verisinin artan/azalan şekilde sıralamasının yapıldığı alandır.
 
-2.2. **Açıklama:** Girilen kod değerine karşılık gelen yer ismidir. (Örneğin kod alanına plakalar eklenirse açıklama alanına eşleşmesi için şehir ismi eklenmelidir)
+ 2.2. **Açıklama:** Girilen kod değerine karşılık gelen yer ismidir. (Örneğin kod alanına plakalar eklenirse açıklama alanına eşleşmesi için şehir ismi eklenmelidir)
 
-2.3. **Boylam:** Haritada gösterilecek alanların boylam bilgisinin yer aldığı veri alanıdır.
+ 2.3. **Boylam:** Haritada gösterilecek alanların boylam bilgisinin yer aldığı veri alanıdır.
 
-2.4. **Enlem:** Haritada gösterilecek alanların enlem bilgisinin yer aldığı veri alanıdır.
+ 2.4. **Enlem:** Haritada gösterilecek alanların enlem bilgisinin yer aldığı veri alanıdır.
 
 
 **Cluster Map Ayarlar Alanı**
@@ -1367,9 +1370,9 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
 **1. Genel Görünüm**
 
-1.1. **Renk:** Haritada yer alan cluster bubble’ların renk değişikliğinin yapıldığı kısımdır. 
+ 1.1. **Renk:** Haritada yer alan cluster bubble’ların renk değişikliğinin yapıldığı kısımdır. 
 
-1.2. **Harita Döşeme:** Harita görünümü ile ilgili seçimin yapıldığı kısımdır.)
+ 1.2. **Harita Döşeme:** Harita görünümü ile ilgili seçimin yapıldığı kısımdır.)
  
 
 **2. Başlık Ayarları**
@@ -1511,17 +1514,19 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
  2.2. **Çıkış İl Plakası:** Haritada gösterilecek okun başlangıç ilinin enlem bilgisinin yer aldığı veri alanıdır.
 
- 2.3. **Çıkış İlin Boylamı:** Haritada gösterilecek okun başlangıç ilinin boylam bilgisinin yer aldığı veri alanıdır.
+ 2.3. **Çıkış İlin Enlemi:** Haritada gösterilecek okun başlangıç ilinin enlem bilgisinin yer aldığı veri alanıdır.
+ 
+ 2.4. **Çıkış İlin Boylamı:** Haritada gösterilecek okun başlangıç ilinin boylam bilgisinin yer aldığı veri alanıdır.
 
- 2.4. **Varış İl Plakası:** Haritada bir ilden başka ile gidiş oklarla gösterilmektedir. Varış il plakası okun bitiş yerinin gösterildiği ilin plaka alanıdır.
+ 2.5. **Varış İl Plakası:** Haritada bir ilden başka ile gidiş oklarla gösterilmektedir. Varış il plakası okun bitiş yerinin gösterildiği ilin plaka alanıdır.
 
- 2.5. **Varış İlin Enlemi:** Haritada gösterilecek okun bitiş ilinin enlem bilgisinin yer aldığı veri alanıdır.
+ 2.6. **Varılan İlin Enlemi:** Haritada gösterilecek okun bitiş ilinin enlem bilgisinin yer aldığı veri alanıdır.
 
- 2.6. **Varış İlin Boylamı:** Haritada gösterilecek okun bitiş ilinin boylam bilgisinin yer aldığı veri alanıdır
+ 2.7. **Varılan İlin Boylamı:** Haritada gösterilecek okun bitiş ilinin boylam bilgisinin yer aldığı veri alanıdır
 
- 2.7. **Değer:** Haritayı şekillendirmek için kullanılacak sayısal verinin eklendiği alandır.
+ 2.8. **Değer:** Haritayı şekillendirmek için kullanılacak sayısal verinin eklendiği alandır.
 
- 2.8. **Saklı Alan:** Grafikte gösterilmeyen default filtrede, formülde kullanılmak üzere verinin eklendiği alandır
+ 2.9. **Saklı Alan:** Grafikte gösterilmeyen default filtrede, formülde kullanılmak üzere verinin eklendiği alandır
 
 
 **Oklu Türkiye Haritası Ayarlar Alanı**
@@ -1618,15 +1623,30 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
  1.2. **Seçim Rengi:** Harita üzerinde seçim yapılan alan renginin seçildiği kısımdır
 
-**2. Diğer**
 
- 2.1. **Başlık:** Haritaya başlık verilen alandır.
+**2. Başlık Ayarları**
 
- 2.2. **Başlık Hizası:** Harita başlığının sağ/orta/sol hizalamasının seçildiği alandır.
 
- 2.3. **Başlık Yazı Stilleri:** Harita başlığının kalın/italik/altı çizili olmasının belirlendiği kısımdır.
+ 2.1. **Başlık:** Grafiğin başlığının belirtildiği alandır.
 
- 2.4. **Çoklu Seçim:** Harita üzerinde çoklu seçim yapılabilme özelliğini aktif hale getirir.
+ 2.2. **Başlık Hizası:** Başlık orta, sağ veya sol olmak üzere istenen şekilde hizalama yapılabilir.
+
+ 2.3. **Başlık Yazı Stilleri:** Başlığın yazı stili seçilebilmektedir.
+
+ 2.4. **Başlık Yazı Tipi:** Bu alanda başlığın yazı tipi belirlenebilmektedir. 
+
+ 2.5. **Başlık Font Boyutu:** Başlıkğın font boyutu burada seçilmektedir.
+
+ 2.6. **Başlık Font Rengi:** Font renk seçime imkanı sunar.
+
+ 2.7. **Başlık Özelliklerini Rapordaki Diğer Pluginlere Uygulama Alanı:** Başlığa dair yapılmış olan tüm düzenlemeleri raporda bulunan diğer plugin başlıklarına uygulanmasını sağlamaktadır.
+
+
+**3. Diğer**
+
+ 3.1. **Çoklu Seçim:** Harita üzerinde çoklu seçim yapılabilme özelliğini aktif hale getirir.
+
+
 
 4.3.1.16. Dünya Haritası
 ========================
@@ -1668,15 +1688,15 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
 **2. Kolon Eşleştirmeleri**
 
-**2.1. Sıralama:** Kolon verisinin artan/azalan şekilde sıralamasının yapıldığı alandır.
+ 2.1. **Sıralama:** Kolon verisinin artan/azalan şekilde sıralamasının yapıldığı alandır.
 
-**2.2. Değer:** Haritayı şekillendirmek için kullanılacak sayısal verinin eklendiği alandır.
+ 2.2. **Değer:** Haritayı şekillendirmek için kullanılacak sayısal verinin eklendiği alandır.
 
-**2.3. Ülke Kodu:** Haritanın görselleştirileceği ülkeye ilişkin kod bilgisinin yer aldığı alandır.
+ 2.3. **Ülke Kodu:** Haritanın görselleştirileceği ülkeye ilişkin kod bilgisinin yer aldığı alandır.
 
-**2.4. Ülke Adı:** Haritanın görselleştirileceği ülke adı bilgisinin yer aldığı alandır.
+ 2.4. **Ülke Adı:** Haritanın görselleştirileceği ülke adı bilgisinin yer aldığı alandır.
 
-**2.5. Şehir Kimliği:** Haritada görselleştirilen ülkelere karşılık gelen şehirlere ilişkin kod bilgisinin yer aldığı alandır.
+ 2.5. **Şehir Kimliği:** Haritada görselleştirilen ülkelere karşılık gelen şehirlere ilişkin kod bilgisinin yer aldığı alandır.
 
 Dünya Haritası Ayarlar Alanı
 
@@ -1685,11 +1705,11 @@ Dünya Haritası Ayarlar Alanı
 
 **1. Genel Görünüm**
 
-1.1. **Tema:** Harita ön tanımlı temalar seçilerek görselleştirilir.
+ 1.1. **Tema:** Harita ön tanımlı temalar seçilerek görselleştirilir.
 
-1.2. **Seçim Rengi:** Harita üzerinde seçim yapılan alan renginin seçildiği kısımdır.
+ 1.2. **Seçim Rengi:** Harita üzerinde seçim yapılan alan renginin seçildiği kısımdır.
 
-1.3. **Filtre Limiti:** Filtre limitinin belirtildiği alandır.
+ 1.3. **Filtre Limiti:** Filtre limitinin belirtildiği alandır.
 
 **2. Başlık Ayarları**
 
@@ -1753,11 +1773,11 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
 **2.Kolon Eşleştirmeleri**
 
-**2.1. Sıralama:** Kolon verisinin artan/azalan şekilde sıralamasının yapıldığı alandır.
+ 2.1. **Sıralama:** Kolon verisinin artan/azalan şekilde sıralamasının yapıldığı alandır.
 
-**2.2. Ölçü Değeri:** Grafiği şekillendirmek için kullanılacak sayısal verinin eklendiği alandır.
+ 2.2. **Ölçü Değeri:** Grafiği şekillendirmek için kullanılacak sayısal verinin eklendiği alandır.
 
-**2.3. Saklı Alan:** Grafikte gösterilmeyen default filtrede, formülde kullanılmak üzere verinin eklendiği alandır.
+ 2.3. **Saklı Alan:** Grafikte gösterilmeyen default filtrede, formülde kullanılmak üzere verinin eklendiği alandır.
 
 **Measure Tile Ayarlar Alanı**
 
@@ -1776,7 +1796,7 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
    **2.1.İkon:** Measure Tile’a var olan ikonlardan eklenmek istendiğinde kullanılan alandır.
 
-   **2.1.Resim Mi?:**  Measure Tile’a resim eklenmek istendiğinde kullanılan alandır.
+   **2.2.Resim Mi?:**  Measure Tile’a resim eklenmek istendiğinde kullanılan alandır.
 
 .. figure:: ./images/73.png
    :alt: image
@@ -1793,15 +1813,15 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
 **3.Genel Görünüm**
 
-**3.1. Başlık:** Grafiğe başlık verilen alandır.
+ 3.1. **Başlık:** Grafiğe başlık verilen alandır.
 
-**3.2. Başlık Hizası:** Grafik başlığının sağ/orta/sol hizalamasının seçildiği alandır.
+ 3.2. **Başlık Hizası:** Grafik başlığının sağ/orta/sol hizalamasının seçildiği alandır.
 
-**3.3. Başlık Yazı Stilleri:** Grafik başlığının kalın/italik/altı çizili olmasının belirlendiği kısımdır.
+ 3.3. **Başlık Yazı Stilleri:** Grafik başlığının kalın/italik/altı çizili olmasının belirlendiği kısımdır.
 
-**3.4. Arka Plan Rengi:** Grafiğe arka plan rengi verilen alandır. Paletten arka plan rengi seçilebilmektedir.
+ 3.4. **Arka Plan Rengi:** Grafiğe arka plan rengi verilen alandır. Paletten arka plan rengi seçilebilmektedir.
 
-**3.5. Animasyon:** Measure Tile ile görselleştirilen verinin ekrana getirilme süresinin girildiği alandır.
+ 3.5. **Animasyon:** Measure Tile ile görselleştirilen verinin ekrana getirilme süresinin girildiği alandır.
 
 4.3.1.18.Bayrak
 ===============
@@ -1836,7 +1856,7 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
  1.2. **Tablo Kolon Listesi:** Seçili modelde yer alan tablo ve kolonların yer aldığı bölümdür.
 
-**Kolon Eşleştirmeleri**
+**2.Kolon Eşleştirmeleri**
 
  2.1. **Sıralama:** Kolon verisinin artan/azalan şekilde sıralamasının yapıldığı alandır.
 
@@ -1868,6 +1888,7 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
 **4. Kaldır:** Görseli silmek için kullanılan alandır. “Kaldır” ikonuna tıklandığında “Bu görseli silmek istiyor musunuz?” şeklinde uyarı çıkmaktadır.
 
+**5. Başlık:** Başlık verilen alandır.
 
 **I-Frame Veri Alanı**
 
@@ -1880,11 +1901,11 @@ I-Frame veri alanı bulunmamaktadır.
 
 **1. Genel Görünüm**
 
-**1.1. İç Genişlik:** Grafikte gösterilen url’deki görselin genişlik bilgisinin ayarlandığı alandır.
+ 1.1. **İç Genişlik:** Grafikte gösterilen url’deki görselin genişlik bilgisinin ayarlandığı alandır.
    
-**1.2. İç Yükseklik:** Grafikte gösterilen url’deki görselin yükseklik bilgisinin ayarlandığı alandır.
+ 1.2. **İç Yükseklik:** Grafikte gösterilen url’deki görselin yükseklik bilgisinin ayarlandığı alandır.
 
-**1.3. Arkaplan Rengi:** Grafiğe arka plan rengi verilen alandır.
+ 1.3. **Arkaplan Rengi:** Grafiğe arka plan rengi verilen alandır.
 
 
 **2. Başlık Ayarları**
@@ -1906,7 +1927,7 @@ I-Frame veri alanı bulunmamaktadır.
 
 **3. Diğer**
 
-**3.1. Link Alanı:** Grafikte gösterilecek görselin link bilgisinin yer aldığı kısımdır.
+ 3.1. **Link Alanı:** Grafikte gösterilecek görselin link bilgisinin yer aldığı kısımdır.
 
    
 4.3.1.20. Resim
@@ -1975,9 +1996,9 @@ I-Frame veri alanı bulunmamaktadır.
 
  **2.Genel Görünüm**
 
- 1.4. **Arka Plan Rengi:** Grafiğe arka plan rengi verilen alandır. Paletten arka plan rengi seçilebilmektedir.
+ 2.1. **Arka Plan Rengi:** Grafiğe arka plan rengi verilen alandır. Paletten arka plan rengi seçilebilmektedir.
 
- 1.6. **Link Alanı:** Başlık grafiği üzerine tıklandığında gidilecek sayfanın link bilgisinin yer aldığı kısımdır.
+ 2.2. **Link Alanı:** Başlık grafiği üzerine tıklandığında gidilecek sayfanın link bilgisinin yer aldığı kısımdır.
 
 
 
@@ -2031,7 +2052,8 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
  2.3. **Ölçü Değeri:** Grafiği şekillendirmek için kullanılacak sayısal verinin eklendiği alandır.
 
- 2.4. **Saklı:** 
+ 2.4. **Saklı:** Grafikte gösterilmeyen default filtrede, formülde kullanılmak üzere verinin eklendiği alandır.
+
 
 **Pasta Grafiği Ayarlar Alanı**
 
@@ -2054,9 +2076,9 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
 **2. Gelişmiş Konfigürasyon**
 
- 2.1. **Çoklu Dilim Seçimi:**
+ 2.1. **Çoklu Dilim Seçimi:** 
 
- 2.2. **Koşulsal Formatlamayı Göster:**
+ 2.2. **Koşulsal Formatlamayı Göster:** Grafik üzerinde tanımlanan belirli bir kural neticesinde verileri gözle daha kolay bir şekilde taramak için renksel ya da şekilsel biçimlendirmeler yapılan alandır.
 
 
  **3. Gelişmiş Legend Konfigürasyonu**
@@ -2369,7 +2391,7 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
  3.2. **Dalga Animasyon Süresi:** Animasyon süresi olarak girilen sürede dalga hareketi yenilenmektedir.
 
- 3.3. **Dalga Yükseklik Boyutu:**
+ 3.3. **Dalga Yükseklik Boyutu:** 
 
  3.4. **Dalga Yükseklik Boyutlandırması:**
 
@@ -2751,6 +2773,7 @@ Seçili modelde var olan tablo ve kolonların bulunduğu alandır.
 Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölümlere sürükle-bırak ile eklenir.
 
  1.1. **Ara:** Tablo ve kolonların arandığı alandır.
+
  1.2. **Tablo Kolon Listesi:** Seçili modelde yer alan tablo ve kolonların yer aldığı bölümdür.
 
 **2. Kolon Eşleştirmeleri**
