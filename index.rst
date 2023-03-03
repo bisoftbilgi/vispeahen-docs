@@ -408,9 +408,6 @@ ayarlandığı alandır.
 
   2.7. **Başlık Özelliklerini Rapordaki Diğer Pluginlere Uygulama Alanı:** Başlığa dair yapılmış olan tüm düzenlemeleri raporda bulunan diğer plugin başlıklarına uygulanmasını sağlamaktadır.
 
-   
-.. figure:: ./images/117.png
-   :alt: image
 
 
 
@@ -652,8 +649,8 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
  2.1. **Arkaplan Rengi:** Grafiğe arka plan rengi verilen alandır
 
-4. 3. 1. 5. Yaş Piramidi
-========================
+4.3.1.5. Yaş Piramidi
+=====================
 
 
 .. figure:: ./images/121.png
