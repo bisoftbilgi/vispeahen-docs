@@ -5,10 +5,9 @@ VISPEAHEN VERİ ANALİZ VE GÖRSELLEŞTİRME PLATFORMU
 **1. Vispeahen Kullanıcı Oluşturma**
 ====================================
 
-Vispeahen’e kullanıcı adı
-ve şifre bilgisi ile giriş yapılabilmektedir. Vispeahen’e giriş yapacak
-kullanıcı aşağıdaki adımları izlemelidir.
-.. caution::  
+Vispeahen’e giriş yapacak kullanıcı aşağıdaki adımları izlemelidir.
+kullanıcı aşağıdaki adımları izlemelidir.  
+
 *  Web tarayıcıya Vispeahen’e giriş yapılacak url eklenir.
 
 .. figure:: ./images/login_screen.png
