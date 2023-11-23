@@ -10,6 +10,9 @@ Vispeahen’e giriş yapacak kullanıcı aşağıdaki adımları izlemelidir.
 
 .. figure:: ./images/register.png
    :alt: image
+**1. Ad Soyad:** Vispeahen eklenecek kullanıcının isim soyisim bilgisinin girilebileceği alandır.
+**2. E Posta:** Kullanıcı mail adresinin girileceği alandır.
+**3. Kullanıcı Adı:** 
 
 
 
