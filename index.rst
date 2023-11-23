@@ -23,7 +23,7 @@ Vispeahen’e giriş yapacak kullanıcı aşağıdaki adımları izlemelidir.
 
 **6. Kayıt Ol:** Bilgileri girilen kullanıcı bilgilerinin kaydedildiği kısımdır.
 
-** 7. Giriş Ekranına Dön:** Kullanıcı oluşturma ekranından giriş ekranına dönmek için kullanılacak kısımdır.
+**7. Giriş Ekranına Dön:** Kullanıcı oluşturma ekranından giriş ekranına dönmek için kullanılacak kısımdır.
 
 *  Web tarayıcıya Vispeahen’e giriş yapılacak url eklenir.
 
