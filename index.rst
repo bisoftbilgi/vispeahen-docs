@@ -10,7 +10,7 @@ kullanıcı aşağıdaki adımları izlemelidir.
 
 *  Web tarayıcıya Vispeahen’e giriş yapılacak url eklenir.
 
-.. figure:: ./images/login_screen.png
+.. figure:: ./images/login.png
    :alt: image
 
 
