@@ -8,7 +8,7 @@ VISPEAHEN VERİ ANALİZ VE GÖRSELLEŞTİRME PLATFORMU
 Vispeahen’e giriş yapacak kullanıcı aşağıdaki adımları izlemelidir.
 
 
-.. figure:: ./images/register.png
+.. figure:: ./images/registerrr.png
    :alt: image
 
 
