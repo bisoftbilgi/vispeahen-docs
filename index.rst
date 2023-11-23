@@ -8,6 +8,11 @@ VISPEAHEN VERİ ANALİZ VE GÖRSELLEŞTİRME PLATFORMU
 Vispeahen’e giriş yapacak kullanıcı aşağıdaki adımları izlemelidir.
 kullanıcı aşağıdaki adımları izlemelidir.  
 
+.. figure:: ./images/register.png
+   :alt: image
+
+
+
 *  Web tarayıcıya Vispeahen’e giriş yapılacak url eklenir.
 
 .. figure:: ./images/login.png
