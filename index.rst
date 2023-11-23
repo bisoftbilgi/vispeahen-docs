@@ -10,17 +10,18 @@ Vispeahen’e giriş yapacak kullanıcı aşağıdaki adımları izlemelidir.
 
 .. figure:: ./images/register.png
    :alt: image
- **1. Ad Soyad:** Vispeahen eklenecek kullanıcının isim soyisim bilgisinin girilebileceği alandır.
 
- **2. E Posta:** Kullanıcı mail adresinin girileceği alandır.
+**1. Ad Soyad:** Vispeahen eklenecek kullanıcının isim soyisim bilgisinin girilebileceği alandır.
 
- **3. Kullanıcı Adı:** Vispeahen'de kullanılacak kullanıcı adının belirlendiği kısımdır. Kullanıcı adı belirlenirken sadece karakter, sayı ve alt çizgi (_) kullanımına izin verilmektedir.
+**2. E Posta:** Kullanıcı mail adresinin girileceği alandır.
 
- **4. Şifre:** Vispeahen'e giriş yapılacak şifre bilgisinin girileceği alandır.
+**3. Kullanıcı Adı:** Vispeahen'de kullanılacak kullanıcı adının belirlendiği kısımdır. Kullanıcı adı belirlenirken sadece karakter, sayı ve alt çizgi (_) kullanımına izin verilmektedir.
 
- **5. Şifre Tekrar:** Şifrenin tekrar girileceği ve yukarıda girilen şifre ile uyuşup uyuşmadığının kontrol edileceği alandır.
+**4. Şifre:** Vispeahen'e giriş yapılacak şifre bilgisinin girileceği alandır.
 
- **6. Giriş Ekranına Dön:** Kullanıcı oluşturma ekranından giriş ekranına dönmek için kullanılacak kısımdır.
+**5. Şifre Tekrar:** Şifrenin tekrar girileceği ve yukarıda girilen şifre ile uyuşup uyuşmadığının kontrol edileceği alandır.
+
+**6. Giriş Ekranına Dön:** Kullanıcı oluşturma ekranından giriş ekranına dönmek için kullanılacak kısımdır.
 
 *  Web tarayıcıya Vispeahen’e giriş yapılacak url eklenir.
 
