@@ -11,7 +11,7 @@ kullanıcı aşağıdaki adımları izlemelidir.
 .. caution::  
 *  Web tarayıcıya Vispeahen’e giriş yapılacak url eklenir.
 
-.. figure:: ./images/1.png
+.. figure:: ./images/login_screen.png
    :alt: image
 
 
