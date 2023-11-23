@@ -21,7 +21,9 @@ Vispeahen’e giriş yapacak kullanıcı aşağıdaki adımları izlemelidir.
 
 **5. Şifre Tekrar:** Şifrenin tekrar girileceği ve yukarıda girilen şifre ile uyuşup uyuşmadığının kontrol edileceği alandır.
 
-**6. Giriş Ekranına Dön:** Kullanıcı oluşturma ekranından giriş ekranına dönmek için kullanılacak kısımdır.
+**6. Kayıt Ol:** Bilgileri girilen kullanıcı bilgilerinin kaydedildiği kısımdır.
+
+** 7. Giriş Ekranına Dön:** Kullanıcı oluşturma ekranından giriş ekranına dönmek için kullanılacak kısımdır.
 
 *  Web tarayıcıya Vispeahen’e giriş yapılacak url eklenir.
 
