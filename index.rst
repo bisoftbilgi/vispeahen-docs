@@ -25,28 +25,15 @@ Vispeahen’e giriş yapacak kullanıcı aşağıdaki adımları izlemelidir.
 
 **7. Giriş Ekranına Dön:** Kullanıcı oluşturma ekranından giriş ekranına dönmek için kullanılacak kısımdır.
 
-*  Web tarayıcıya Vispeahen’e giriş yapılacak url eklenir.
-
-.. figure:: ./images/login.png
-   :alt: image
-
-
--  “Ücretsiz Kayıt Ol” seçeneği tıklanır.
-
-.. figure:: ./images/2.png
-   :alt: image
-
--  Kayıt için gerekli bilgiler girilir. “Kayıt Ol” butonuna tıklandıktan sonra kullanıcıya aktivasyon maili gitmektedir. 
-Kullanıcı mail adresinden aktivasyonu onayladıktan sonra sistem mail adresi ve şifresi ile giriş yapabilmektedir. 
-   
-
-.. figure:: ./images/3.png
-   :alt: image
-
+* **Not:** **Kayıt Ol** butonuna tıklandıktan sonra kullanıcıya aktivasyon maili gitmektedir. Kullanıcı mail adresinden aktivasyonu onayladıktan sonra sistem mail adresi ve şifresi ile giriş yapabilmektedir. 
 
 
 **2. Giriş Yapma**
 ==================
+*  Web tarayıcıya Vispeahen’e giriş yapılacak url eklenir.
+
+.. figure:: ./images/login.png
+   :alt: image
 
 -  Vispeahen’e giriş yapmak için tarayıcıya belirlenen url eklenir.
 
