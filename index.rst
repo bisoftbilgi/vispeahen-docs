@@ -30,19 +30,17 @@ Vispeahen’e giriş yapacak kullanıcı aşağıdaki adımları izlemelidir.
 
 **2. Giriş Yapma**
 ==================
+*  Tarayıcı arama alanına Vispeahen giriş  .
 *  Web tarayıcıya Vispeahen’e giriş yapılacak url eklenir.
 
 .. figure:: ./images/login.png
    :alt: image
 
--  Vispeahen’e giriş yapmak için tarayıcıya belirlenen url eklenir.
+
 
 .. figure:: ./images/4.png
    :alt: image
 
-
-
-Resim 1. Vispeahen Giriş Ekranı
 
 -  Açılan Vispeahen sayfasında kullanıcı adı ve şifre bilgisi girilir.
 -  Tercih edilen dil seçilir.
