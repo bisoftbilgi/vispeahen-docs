@@ -37,18 +37,6 @@ Vispeahen’e giriş yapacak kullanıcı aşağıdaki adımları izlemelidir.
    :alt: image
 
 
-
-.. figure:: ./images/4.png
-   :alt: image
-
-
-
-
-.. figure:: ./images/5.png
-   :alt: image
-
-
-
 **3. Açılış Ekranı**
 ====================
 
