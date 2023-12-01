@@ -34,9 +34,9 @@ Vispeahen’e giriş yapacak kullanıcı aşağıdaki adımları izlemelidir.
 *  Tercih edilen dil seçilir.
 *  “Giriş” butonuna tıklanarak giriş yapılır.
 .. figure:: ./images/login.png
-   :alt: image**3. Açılış Ekranı**
+   :alt: image**
+3. Açılış Ekranı**
 ====================
-
 -  Kullanıcı adı ve şifre bilgisi ile giriş yaptıktan sonra açılış
    ekranı gelmektedir. Kullanıcı ile ilk defa girişte ya da herhangi bir
    label seçilmediyse açılış ekranı yönlendirme metni ile gelmektedir.
