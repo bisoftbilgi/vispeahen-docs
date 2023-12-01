@@ -35,6 +35,7 @@ Vispeahen’e giriş yapacak kullanıcı aşağıdaki adımları izlemelidir.
 *  “Giriş” butonuna tıklanarak giriş yapılır.
 .. figure:: ./images/login.png
    :alt: image**
+
 **3. Açılış Ekranı**
 ====================
 -  Kullanıcı adı ve şifre bilgisi ile giriş yaptıktan sonra açılış
