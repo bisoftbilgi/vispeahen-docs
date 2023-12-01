@@ -34,7 +34,7 @@ Vispeahen’e giriş yapacak kullanıcı aşağıdaki adımları izlemelidir.
 *  Tercih edilen dil seçilir.
 *  “Giriş” butonuna tıklanarak giriş yapılır.
 
-.. figure:: ./images/login.png
+.. figure:: ./images/login2.png
    :alt: image
 
 
