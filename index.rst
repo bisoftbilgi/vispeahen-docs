@@ -33,7 +33,6 @@ Vispeahen’e giriş yapacak kullanıcı aşağıdaki adımları izlemelidir.
 *  Açılan Vispeahen sayfasında kullanıcı adı ve şifre bilgisi girilir.
 *  Tercih edilen dil seçilir.
 *  “Giriş” butonuna tıklanarak giriş yapılır.
-
 .. figure:: ./images/login.png
    :alt: image
 
