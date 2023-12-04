@@ -47,6 +47,15 @@ Vispeahen’e giriş yapacak kullanıcı aşağıdaki adımları izlemelidir.
 .. figure:: ./images/109.png
    :alt: image
 
+**1. Kullanıcı Adı:** Vispeahen'e giriş yapılacak kullanıcı adının girileceği alandır.
+
+**2. Şifre:** Kullanıcı şifresinin girildiği alandır.
+
+**3. Dil Seçiniz:** Vispeahen'in hangi dilde kullanılacağının seçildiği alandır. Mevcutta Türkçe ve İngilizce olmak üzere iki seçenek vardır.
+
+**4. Giriş:** Kullanıcı adı ve şifre ile giriş yapılmasını sağlayan butondur.
+
+
 Resim 3. Vispeahen Açılış Ekranı
 
 Kullanıcı açılış ekranında bulunan “Etiketler” ikonuna tıkladığında;
