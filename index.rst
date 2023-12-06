@@ -47,17 +47,6 @@ Vispeahen’e giriş yapacak kullanıcı aşağıdaki adımları izlemelidir.
 **3. Açılış Ekranı**
 ====================
 
--  Kullanıcı adı ve şifre bilgisi ile giriş yaptıktan sonra açılış
-   ekranı gelmektedir. Kullanıcı ile ilk defa girişte ya da herhangi bir
-   label seçilmediyse açılış ekranı yönlendirme metni ile gelmektedir.
-
-.. figure:: ./images/lan.png
-   :alt: image
-
-
-
-Resim 3. Vispeahen Açılış Ekranı
-
 Kullanıcı giriş yaptıktan sonra açılış sayfası açılmaktadır.
 
 Buradan yeni rapor/kumanda tablosu yapma ekranına geçebilmekte ya da önceden kayıtlı rapor/dashboard ekranlarını açabilmektedir.
