@@ -58,11 +58,11 @@ Vispeahen’e giriş yapacak kullanıcı aşağıdaki adımları izlemelidir.
 
 Resim 3. Vispeahen Açılış Ekranı
 
-Kullanıcı açılış ekranında bulunan “Etiketler” ikonuna tıkladığında;
+Kullanıcı giriş yaptıktan sonra açılış sayfası açılmaktadır.
 
-* İlk defa giriş yapıyorsa varsayılan olarak tanımlanan etiketler görüntülenir.
+Buradan yeni rapor/kumanda tablosu yapma ekranına geçebilmekte ya da önceden kayıtlı rapor/dashboard ekranlarını açabilmektedir.
 
-.. figure:: ./images/110.png
+.. figure:: ./images/landing page.png
    :alt: image
 
 
