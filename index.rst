@@ -51,7 +51,7 @@ Kullanıcı giriş yaptıktan sonra açılış sayfası açılmaktadır.
 
 Buradan yeni rapor/kumanda tablosu yapma ekranına geçebilmekte ya da önceden kayıtlı rapor/dashboard ekranlarını açabilmektedir.
 
-.. figure:: ./images/landingpage.png
+.. figure:: ./images/landingpagpe.png
    :alt: image
 
 
