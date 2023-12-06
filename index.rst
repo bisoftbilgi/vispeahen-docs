@@ -51,7 +51,7 @@ Vispeahen’e giriş yapacak kullanıcı aşağıdaki adımları izlemelidir.
    ekranı gelmektedir. Kullanıcı ile ilk defa girişte ya da herhangi bir
    label seçilmediyse açılış ekranı yönlendirme metni ile gelmektedir.
 
-.. figure:: ./images/109.png
+.. figure:: ./images/lan.png
    :alt: image
 
 
