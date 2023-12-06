@@ -55,6 +55,18 @@ Buradan yeni rapor/kumanda tablosu yapma ekranına geçebilmekte ya da önceden 
    :alt: image
 
 
+**1. Logo:** Logo alanıdır. Kullanıcı logo değişikliği yapabilmektedir.
+
+**2. Ara:** Rapor ve kumanda tablolarının arandığı kısımdır. Kullanıcı gelişmiş arama özelliğiyle rapor/kumanda tablosu/açıklama/tablo-kolon ismi/... gibi birçok konuda arama yapabilmektedir.
+
+.. figure:: ./images/search.png
+   :alt: image
+
+
+**3. Dil Seçiniz:** Vispeahen'in hangi dilde kullanılacağının seçildiği alandır. Mevcutta Türkçe ve İngilizce olmak üzere iki seçenek vardır.
+
+**4. Giriş:** Kullanıcı adı ve şifre ile giriş yapılmasını sağlayan butondur.
+
 -  Daha önce tanımlamış olduğu etiket varsa o etiketleri seçenekler
    arasında görüntüleyebilir.
    
