@@ -66,12 +66,17 @@ Buradan yeni rapor/kumanda tablosu yapma ekranına geçebilmekte ya da önceden 
 
 **Rapor:** Sadece oluşturulan raporlar aranır.
 
-**3. Dil Seçiniz:** Vispeahen'in hangi dilde kullanılacağının seçildiği alandır. Mevcutta Türkçe ve İngilizce olmak üzere iki seçenek vardır.
+**3. Ana Sayfa:** Vispeahen ana sayfasına dönmek için yer alan butondur. Tıklandığında rapor ve kumanda tablolarının görüntülendii ana sayfaya yönlendirilir.
 
-**4. Giriş:** Kullanıcı adı ve şifre ile giriş yapılmasını sağlayan butondur.
+**4. Yardım:** Vispeahen yardım dokümanı alanıdır.
 
--  Daha önce tanımlamış olduğu etiket varsa o etiketleri seçenekler
-   arasında görüntüleyebilir.
+**5. Bildirim:** Vispeahen'de gelen bildirimlerin görüntülendiği alandır. Dashboard yorum alanında bahsedilen kullanıcıya bildirim gelmekte gelen bildirimler bu kısımda listelenmektedir.
+
+**6. Kullanıcı Alanı:** Kullanıcının yetkisi dahilinde seçeneklerinin çıktığı alandır.
+
+.. figure:: ./images/kullanici_profil.png
+   :alt: image
+
    
  .. figure:: ./images/111.png
    :alt: image
