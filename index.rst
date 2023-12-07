@@ -94,9 +94,20 @@ Buradan yeni rapor/kumanda tablosu yapma ekranına geçebilmekte ya da önceden 
 
 **9. Etiketler:** Ana sayfada görüntülenecek/görünümü kapatılacak etiket listesi alanıdır. 
 
+Etiket alanı öntanımlı etiketler ve kullanıcı tarafından oluşturulan etiketler olarak ikiye ayrılmaktadır. Kullanıcı tarafından eklenen etiketler öntanımlı etiketlerden sonra listelenmektedir.
 
 .. figure:: ./images/etiket.png
    :alt: image
+
+
+**1. Özel:** Vispeahen'e giriş yapan kullanıcının oluşturup kaydettiği sadece kendi 
+
+**2. Şifre:** Kullanıcı şifresinin girildiği alandır.
+
+**3. Dil Seçiniz:** Vispeahen'in hangi dilde kullanılacağının seçildiği alandır. Mevcutta Türkçe ve İngilizce olmak üzere iki seçenek vardır.
+
+**4. Giriş:** Kullanıcı adı ve şifre ile giriş yapılmasını sağlayan butondur.
+
 
 
 
