@@ -59,8 +59,10 @@ Buradan yeni rapor/kumanda tablosu yapma ekranına geçebilmekte ya da önceden 
 
 **2. Ara:** Rapor ve kumanda tablolarının arandığı kısımdır. Kullanıcı gelişmiş arama özelliğiyle rapor/kumanda tablosu/açıklama/tablo-kolon ismi/... gibi birçok konuda arama yapabilmektedir.
 
+
 .. figure:: ./images/search.png
    :alt: image
+
 
 **Kumanda Tablosu:** Sadece oluşturulan kumanda tabloları aranır.
 
@@ -74,14 +76,30 @@ Buradan yeni rapor/kumanda tablosu yapma ekranına geçebilmekte ya da önceden 
 
 **6. Kullanıcı Alanı:** Kullanıcının yetkisi dahilinde seçeneklerinin çıktığı alandır.
 
+
 .. figure:: ./images/kullanici_profil.png
    :alt: image
+
     
 **Profil:** Kullanıcı profil bilgisinin ve değişikliğinin yapılacağı alandır.
 
 **Yönetim Sayfası:** Admin ve Editör yetkili kullanıcı tarafından görüntülebilen kısımdır. Kullanıcının admin sayfasında yapabileceği değişikliklere ilişkin alanlar yetkisi dahilinde  görüntülenecektir. 
 
 **Çıkış:** Vispeahen'den çıkış yapılır.
+
+
+**7. Yeni Kumanda Tablosu:** Yeni kumanda tablosu oluşturma ekranına yönlendirir.
+
+**8. Yeni Rapor:** Yeni rapor oluşturma ekranına yönlendirir.
+
+**9. Etiketler:** Ana sayfada görüntülenecek/görünümü kapatılacak etiket listesi alanıdır. 
+
+
+.. figure:: ./images/etiket.png
+   :alt: image
+
+
+
 
 
 Kullanıcının yetkisine göre gelen etiketlerden seçim yapıldığında açılış
