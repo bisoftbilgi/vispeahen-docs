@@ -73,7 +73,6 @@ Buradan yeni rapor/kumanda tablosu yapma ekranına geçebilmekte ya da önceden 
 **5. Bildirim:** Vispeahen'de gelen bildirimlerin görüntülendiği alandır. Dashboard yorum alanında bahsedilen kullanıcıya bildirim gelmekte gelen bildirimler bu kısımda listelenmektedir.
 
 **6. Kullanıcı Alanı:** Kullanıcının yetkisi dahilinde seçeneklerinin çıktığı alandır.
-
 .. figure:: ./images/kullanici_profil.png
    :alt: image
 
