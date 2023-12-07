@@ -77,7 +77,11 @@ Buradan yeni rapor/kumanda tablosu yapma ekranına geçebilmekte ya da önceden 
 .. figure:: ./images/kullanici_profil.png
    :alt: image
     
+**Profil:** Kullanıcı profil bilgisinin ve değişikliğinin yapılacağı alandır.
 
+**Yönetim Sayfası:** Admin ve Editör yetkili kullanıcı tarafından görüntülebilen kısımdır. Kullanıcının admin sayfasında yapabileceği değişikliklere ilişkin alanlar yetkisi dahilinde  görüntülenecektir. 
+
+**Çıkış:** Vispeahen'den çıkış yapılmasını sağlar.
 
 
 Kullanıcının yetkisine göre gelen etiketlerden seçim yapıldığında açılış
