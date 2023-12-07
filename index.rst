@@ -63,8 +63,7 @@ Buradan yeni rapor/kumanda tablosu yapma ekranına geçebilmekte ya da önceden 
 .. figure:: ./images/search_ekrani.png
    :alt: image
 
-Yetkisi dahilinde dashboardları “Arama” alanından arayabilmektedir.Arama yapılan rapor ön izlemeleri de yer almaktadır.
-
+Yetki dahilindeki rapor ve kumanda tabloları “Arama” alanından aranabilmekte olup arama yapılan rapor ve kumandaların ön izlemeleri görüntülenmektedir.
 .. figure:: ./images/9.png
    :alt: image
 
