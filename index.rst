@@ -62,6 +62,8 @@ Buradan yeni rapor/kumanda tablosu yapma ekranına geçebilmekte ya da önceden 
 .. figure:: ./images/search.png
    :alt: image
 
+**Kumanda Tablosu:** Sadece kumanda tabloları aranmak istendiğinde seçilir.
+**Rapor:** Sadece raporlar aranmak istendiğinde seçilir.
 
 **3. Dil Seçiniz:** Vispeahen'in hangi dilde kullanılacağının seçildiği alandır. Mevcutta Türkçe ve İngilizce olmak üzere iki seçenek vardır.
 
