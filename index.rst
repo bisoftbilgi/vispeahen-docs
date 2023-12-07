@@ -130,7 +130,7 @@ Kullanıcının yetkisine göre gelen etiketler seçildiğinde açılış ekran�
 
 Seçilen label’a herhangi bir rapor tanımlanmamışsa “Bu etikette hiçbir rapor bulunamadı” uyarısı yer almaktadır. Kullanıcı etiket altında olmasını istediği raporlara ilgili etiketleri tanımlamalıdır.
 
-.. figure:: ./images/kullanilmayan_etiket.png
+.. figure:: ./images/tanimlanmayan_etiket.png
    :alt: image
 
 
