@@ -63,9 +63,7 @@ Buradan yeni rapor/kumanda tablosu yapma ekranına geçebilmekte ya da önceden 
 .. figure:: ./images/search_ekrani.png
    :alt: image
 
-Kullanıcı yetkisi dahilinde dashboardları “Arama” alanından arayabilmektedir. Yazmış olduğu metin ilk etapta rapor isimleri olmak üzere metadata da dahil olmak üzere gelişmiş arama özelliğine sahiptir.
-
-Arama yapılan rapor ön izlemeleri de yer almaktadır.
+Yetkisi dahilinde dashboardları “Arama” alanından arayabilmektedir.Arama yapılan rapor ön izlemeleri de yer almaktadır.
 
 .. figure:: ./images/9.png
    :alt: image
