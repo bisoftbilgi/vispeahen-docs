@@ -121,11 +121,23 @@ Etiket alanı öntanımlı etiketler ve kullanıcı tarafından oluşturulan eti
 
 **2. Geri Yükle:** Silinmiş etiketinde yer alan rapor/kumanda tablosunu geri yükler.
 
+**8. Kullanıcı Tarafından Oluşturulan Etiketler:** Ön tanımlı etiketler dışında yetkilendirme, gruplama gibi amaçlarla kullanıcı tarafından oluşturulan etiketler listelenir.
+
+Kullanıcının yetkisine göre gelen etiketler seçildiğinde açılış ekranında seçilen etiketlere tanımlanan rapor ve kumanda tabloları görüntülenmektedir.
+
+.. figure:: ./images/kullanici_etiket.png
+   :alt: image
 
 
-Kullanıcının yetkisine göre gelen etiketlerden seçim yapıldığında açılış
-ekranında seçilen etiketler ve ilgili etiketlere tanımlanan raporlar
-görüntülenmektedir.
+
+
+
+
+
+
+
+
+
 
 * Seçilen label’a herhangi bir rapor tanımlanmamışsa “Bu etikette hiçbir rapor bulunamadı” uyarısı yer almaktadır. Kullanıcı etiket altında olmasını istediği raporlara ilgili etiketleri tanımlamalıdır.
 
