@@ -114,7 +114,7 @@ Etiket alanı öntanımlı etiketler ve kullanıcı tarafından oluşturulan eti
 
 **7. Silinmiş:** Silinen rapor ve kumanda tablolarının görüntülendiği etikettir. Bu etiket altındaki rapor ve kumanda tabloları kalıcı olarak silinebilir ya da geri yüklenebilir.
 
-.. figure:: ./images/silinmis_etikett.png
+.. figure:: ./images/silinmis_etiket.png
    :alt: image
 
 
