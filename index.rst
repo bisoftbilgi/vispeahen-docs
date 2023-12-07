@@ -117,7 +117,9 @@ Etiket alanı öntanımlı etiketler ve kullanıcı tarafından oluşturulan eti
 .. figure:: ./images/silinmis_etiket.png
    :alt: image
 
+**1. Kalıcı Olarak Sil:** Silinmiş etiketinde yer alan rapor/kumanda tablosunu kalıcı olarak siler.
 
+**2. Geri Yükle:** Silinmiş etiketinde yer alan rapor/kumanda tablosunu geri yükler.
 
 
 
