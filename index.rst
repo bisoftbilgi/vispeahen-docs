@@ -136,7 +136,7 @@ Seçilen label’a herhangi bir rapor tanımlanmamışsa “Bu etikette hiçbir 
 
 Seçilen etikete rapor tanımlanmışsa tanımlanan raporlar ilgili etiket altında görüntülenmektedir.
 
-.. figure:: ./images/112.png
+.. figure:: ./images/tanimli_etiket.png
    :alt: image
 
 Kullanıcı yetkisi dahilinde dashboardları “Arama” alanından
