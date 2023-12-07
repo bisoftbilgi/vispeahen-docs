@@ -74,7 +74,7 @@ Buradan yeni rapor/kumanda tablosu yapma ekranına geçebilmekte ya da önceden 
 
 **6. Kullanıcı Alanı:** Kullanıcının yetkisi dahilinde seçeneklerinin çıktığı alandır.
 
- .. figure:: ./images/kullanici_profil.png
+.. figure:: ./images/kullanici_profil.png
    :alt: image
     
 
