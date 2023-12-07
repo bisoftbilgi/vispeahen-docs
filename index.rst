@@ -100,14 +100,22 @@ Etiket alanı öntanımlı etiketler ve kullanıcı tarafından oluşturulan eti
    :alt: image
 
 
-**1. Özel:** Vispeahen'e giriş yapan kullanıcının oluşturup kaydettiği sadece kendi 
+**1. Ara:** Vispeahen'de etiket arama kısmıdır.
 
-**2. Şifre:** Kullanıcı şifresinin girildiği alandır.
+**2. Özel:** Vispeahen'e giriş yapan kullanıcının oluşturup kaydettiği raporlar ve kumanda tabloları görüntülenir. Özel etiketindeki rapor ve kumanda tabloları başka hiçbir etiket verilmediği sürece sadece giriş yapan kullanıcı tarafından görülür.
 
-**3. Dil Seçiniz:** Vispeahen'in hangi dilde kullanılacağının seçildiği alandır. Mevcutta Türkçe ve İngilizce olmak üzere iki seçenek vardır.
+**3. Herkese Açık:** Organizasyonda yer alan tüm kullanıcılar tarafından görülmesi istenen rapor ve kumanda tablolarının olduğu etikettir.
 
-**4. Giriş:** Kullanıcı adı ve şifre ile giriş yapılmasını sağlayan butondur.
+**4. Popüler Kumanda Tabloları:** Vispeahen'in hangi dilde kullanılacağının seçildiği alandır. Mevcutta Türkçe ve İngilizce olmak üzere iki seçenek vardır.
 
+**5. Sık Ziyaret Ettiklerim:** Kullanıcı adı ve şifre ile giriş yapılmasını sağlayan butondur.
+
+**6. Favori:** Kullanıcının favori olarak belilediği rapor/kumanda tablolarının bulunduğu etikettir.
+
+**7. Silinmiş:** Silinen rapor ve kumanda tablolarının görüntülendiği etikettir. Bu etiket altındaki rapor ve kumanda tabloları kalıcı olarak silinebilir ya da geri yüklenebilir.
+
+.. figure:: ./images/silinmis_etiket.png
+   :alt: image
 
 
 
