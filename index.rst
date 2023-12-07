@@ -128,18 +128,7 @@ Kullanıcının yetkisine göre gelen etiketler seçildiğinde açılış ekran�
 .. figure:: ./images/kullanici_etiket.png
    :alt: image
 
-
-
-
-
-
-
-
-
-
-
-
-* Seçilen label’a herhangi bir rapor tanımlanmamışsa “Bu etikette hiçbir rapor bulunamadı” uyarısı yer almaktadır. Kullanıcı etiket altında olmasını istediği raporlara ilgili etiketleri tanımlamalıdır.
+Seçilen label’a herhangi bir rapor tanımlanmamışsa “Bu etikette hiçbir rapor bulunamadı” uyarısı yer almaktadır. Kullanıcı etiket altında olmasını istediği raporlara ilgili etiketleri tanımlamalıdır.
 
 .. figure:: ./images/112.png
    :alt: image
