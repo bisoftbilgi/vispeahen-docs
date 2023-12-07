@@ -60,7 +60,7 @@ Buradan yeni rapor/kumanda tablosu yapma ekranına geçebilmekte ya da önceden 
 **2. Ara:** Rapor ve kumanda tablolarının arandığı kısımdır. Kullanıcı gelişmiş arama özelliğiyle rapor/kumanda tablosu/açıklama/tablo-kolon ismi/... gibi birçok konuda arama yapabilmektedir.
 
 
-.. figure:: ./images/searchh.png
+.. figure:: ./images/search.png
    :alt: image
 
 
@@ -95,7 +95,7 @@ Buradan yeni rapor/kumanda tablosu yapma ekranına geçebilmekte ya da önceden 
 **9. Etiketler:** Ana sayfada görüntülenecek/görünümü kapatılacak etiket listesi alanıdır. 
 
 
-.. figure:: ./images/etikett.png
+.. figure:: ./images/etiket.png
    :alt: image
 
 
