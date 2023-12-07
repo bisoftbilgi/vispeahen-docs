@@ -81,7 +81,7 @@ Buradan yeni rapor/kumanda tablosu yapma ekranına geçebilmekte ya da önceden 
 
 **Yönetim Sayfası:** Admin ve Editör yetkili kullanıcı tarafından görüntülebilen kısımdır. Kullanıcının admin sayfasında yapabileceği değişikliklere ilişkin alanlar yetkisi dahilinde  görüntülenecektir. 
 
-**Çıkış:** Vispeahen'den çıkış yapılmasını sağlar.
+**Çıkış:** Vispeahen'den çıkış yapılır.
 
 
 Kullanıcının yetkisine göre gelen etiketlerden seçim yapıldığında açılış
