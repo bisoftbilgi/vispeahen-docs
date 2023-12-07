@@ -95,7 +95,7 @@ Buradan yeni rapor/kumanda tablosu yapma ekranına geçebilmekte ya da önceden 
 **9. Etiketler:** Ana sayfada görüntülenecek/görünümü kapatılacak etiket listesi alanıdır. 
 
 
-.. figure:: ./images/etiket_ekrani.png
+.. figure:: ./images/etiket.png
    :alt: image
 
 
