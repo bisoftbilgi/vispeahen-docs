@@ -130,13 +130,14 @@ Kullanıcının yetkisine göre gelen etiketler seçildiğinde açılış ekran�
 
 Seçilen label’a herhangi bir rapor tanımlanmamışsa “Bu etikette hiçbir rapor bulunamadı” uyarısı yer almaktadır. Kullanıcı etiket altında olmasını istediği raporlara ilgili etiketleri tanımlamalıdır.
 
-.. figure:: ./images/112.png
+.. figure:: ./images/kullanilmayan_etiket.png
    :alt: image
 
 
+Seçilen etikete rapor tanımlanmışsa tanımlanan raporlar ilgili etiket altında görüntülenmektedir.
 
--  Seçilen etikete rapor tanımlanmışsa tanımlanan raporlar ilgili etiket
-   altında görüntülenmektedir.
+.. figure:: ./images/112.png
+   :alt: image
 
 Kullanıcı yetkisi dahilinde dashboardları “Arama” alanından
 arayabilmektedir. Yazmış olduğu metin ilk etapta rapor isimleri olmak
