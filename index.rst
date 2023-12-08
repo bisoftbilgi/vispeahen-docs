@@ -64,6 +64,7 @@ Buradan yeni rapor/kumanda tablosu yapma ekranına geçebilmekte ya da önceden 
    :alt: image
 
 Yetki dahilindeki rapor ve kumanda tabloları “Arama” alanından aranabilmekte olup arama yapılan rapor ve kumandaların ön izlemeleri görüntülenmektedir.
+
 .. figure:: ./images/9.png
    :alt: image
 
@@ -141,6 +142,15 @@ Seçilen etikete rapor tanımlanmışsa tanımlanan raporlar ilgili etiket altı
 
 .. figure:: ./images/tanimli_etiket.png
    :alt: image
+
+
+
+
+
+
+
+
+
 
 
 **4. Rapor Oluşturma Ekranı**
