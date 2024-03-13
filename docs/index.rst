@@ -2909,10 +2909,3 @@ Tablolar & Kolonlar bölümünde yer alan kolonlar, sağ tarafta bulunan bölüm
 
  2.2. **Word:** Kolonda bulunan 
 
- 2.3.
-
-
-  
-
-4.3.1.31. Özel
-===============
